@@ -1,0 +1,4 @@
+“This scripture [D&C 29:34–35](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/29?lang=eng&id=34-35#p34) tells us there is no such thing as a temporal commandment. It also tells us that man is to be ‘an agent unto himself.’ Man cannot be an agent unto himself if he is not self-reliant. Herein we see that independence and self-reliance are critical keys to our spiritual growth. Whenever we get into a situation which threatens our self-reliance, we will find our freedom threatened as well. If we increase our dependence, we will find an immediate decrease in our freedom to act." President Marion G. Romney (in Conference Report, Oct. 1982, 134; or Ensign, Nov. 1982, 93). [Source](https://www.churchofjesuschrist.org/study/manual/eternal-marriage-student-manual/independence?lang=eng&id=p2#p2)
+
+#self-reliance 
+#agency

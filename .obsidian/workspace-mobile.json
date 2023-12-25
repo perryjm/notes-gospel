@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "751a5fc8970ce05d",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b899f830aab637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7c1387b1f40cda",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b7a60a6fdcfddb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotebook/Slums, President Benson.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feb8da6ec730dc44",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "33dc4deb8e58dd6f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b21cbfd1aa2adb83",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#us-v-the-world",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "97b5ec6e91e50f90",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d0121f48821ea5fd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ebcfb1c8f5a368b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f298089b5b77f60",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Quotebook/Slums, President Benson.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "9b7a60a6fdcfddb7",
+  "lastOpenFiles": [
+    "Quotebook/You’ll Miss Raising Children.md",
+    "Free-Writes/2023-12-03.md",
+    "At Church Learnings/2023-03-27.md",
+    "1-Staging/David.md",
+    "Free-Writes/2023-04-20.md",
+    "Calling Notes/EQ Sec. Hand Off.md",
+    "Reference Material",
+    "Free-Writes/2023-05-14.md",
+    "Calling Notes",
+    "Free-Writes",
+    "Personal Blessings/Patriarchal Blessing.md",
+    "At Church Learnings",
+    "Temple, Symbols of/Symbols.md",
+    "Personal Blessings",
+    "Quotebook/Scientific Truth is not the whole of life.md",
+    "Lessons Taught/Not as the World Giveth.md",
+    "Glossary/Priesthood.md",
+    "Lessons Taught",
+    "Glossary/Purity.md",
+    "Misc",
+    "Conference Notes/General Conference.md",
+    "1-Staging",
+    "Conference Notes/Grasslands 3rd Ward Stake Conference.md",
+    "Glossary",
+    "Conference Notes/Provo Stake Conference.md",
+    "Temple, Symbols of/Dressed In White.md",
+    "Conference Notes",
+    "Quotebook/Slums, President Benson.md",
+    "Temple, Symbols of/Return and Report.md",
+    "Thu Feb 21 14:46:04 MST 2019.md",
+    "Sat Sep 29 14:17:30 MDT 2018.md",
+    "Tue Mar 17 14:45:16 MDT 2020.md",
+    "Sun Jun 18 17:05:56 MDT 2023.md",
+    "Wed Dec 30 15:29:01 MST 2020.md",
+    "Thu Jul 14 14:30:26 MDT 2022.md",
+    "I have learned for myself.md",
+    "Apple Notes Attachments/7F203374-E222-42FE-BD6D-7709F129F165.jpg",
+    "Apple Notes Attachments/79003B9A-DACF-4151-81CD-16CC4EF638AC.jpg",
+    "Apple Notes Attachments/ADD52800-C7A1-4D97-819B-AC471C846CFC.jpg",
+    "Apple Notes Attachments/79995CAD-4FF2-4489-B2A4-F557C36E04EE.jpg",
+    "Apple Notes Attachments/B327557F-CD8E-47F6-A7B6-699237C64A2C.jpg",
+    "Apple Notes Attachments/77351E74-4E90-4CB6-91D2-75A0885EDB06.jpg",
+    "Apple Notes Attachments/8AD9793F-B41D-4AA8-9BBC-08FE25B2B011.jpg",
+    "Apple Notes Attachments/AE6CC82B-54B5-4C0D-88A3-32FB4F03945B.jpg",
+    "Apple Notes Attachments/F5F04938-7A38-4515-A0F9-C78338D16C5F.jpg",
+    "Apple Notes Attachments/FCD9797A-816F-44D4-A8D0-B6D2C4FDF6E8.jpg"
+  ]
+}

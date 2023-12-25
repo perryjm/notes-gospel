@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "e6f4b0e19aacf502",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d53902a5c5e918e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d42913f5c4338ab0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3c578297234d461",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6240541d9f51dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bf51f6abd20e781",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2e07eb553e3a48a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f20e180b94aa0eb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c34ba8ed8bdc292e",
+    "type": "split",
+    "children": [
+      {
+        "id": "96913e9938cd6d21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5243837a7e716ac1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "801d9f61c74babba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40bc98736cad1c40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2e8c07f344dccf99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d42913f5c4338ab0",
+  "lastOpenFiles": [
+    "1-Staging",
+    "At Church Learnings",
+    "Personal Blessings",
+    "Quotebook",
+    "Free-Writes",
+    "Lessons Taught",
+    "Temple, Symbols of",
+    "Glossary",
+    "Calling Notes",
+    "Conference Notes",
+    "Reference Material"
+  ]
+}
