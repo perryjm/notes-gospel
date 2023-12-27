@@ -1,5 +1,55 @@
-  
-  
+### [1-Daily Reading](1-Daily%20Reading.md)
+
+
+***
+##### December 27, 2023
+
+**3 Nephi 11**
+“Hosanna! Blessed be the name of the Most High God!” - 3 Nephi 11:17
+
+☝️ that is the hosanna shout.
+
+**Baptism**
+One of the first thing Jesus does is asks by name for the prophet to come forward. Nephi does. And Jesus teaches baptism to all of them. He explains how to do it, and what to say.  Versus 24-26
+
+“calling them by name, saying:
+
+“25 Having authority given me of Jesus Christ, I baptize you in the name of the Father, and of the Son, and of the Holy Ghost. Amen.
+
+“26 And then shall ye immerse them in the water, and come forth again out of the water.” 3 Nephi 11:24-26
+
+He says immerse. You don’t find that word in the Bible. [See topical guide immersion](https://www.churchofjesuschrist.org/study/scriptures/tg/baptism-immersion?lang=eng). You always find “buried with them” or some variation. But immerse is the exact right word. 
+
+Baptism is one of the clearest ordinances explained in the scriptures. 
+
+
+***
+##### December 26, 2023
+###### 3 Nephi 10
+There was three hours of destruction. And then darkness. Like, *thick* darkness. Not even the stars could be shown. And even the driest of wood could not light for fire. And while they are mourning the loss of their loved ones, the Lord speaks to them, and basically tells them they were spared because they were more righteous than their brethren.
+
+What a way to find out you’re on the right side? I guess. But what is the symbolism? What does it mean?
+- You’re a survivor. Darkness, and then light in Ch. 11. 
+- You knew someone who died. The mourning. You feel what the father felt. You feel what the apostles and Mary and Joseph felt in Jerusalem when Christ died. 
+- To be coping with that loss, and then, the Lord comes. And you’re a believer. Basically everyone surviving is a believer. And that means they know Christ will conquer death. And when they see Him arrive the third day. They feel it. They know why he’s there. They understand what it means. It’s joyful because they’ll be with their loved ones again. Seeing Christ’s face means we will all live again. 
+
+###### [Do You Want to Be Happy?](https://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng) By Elder Yoon Hwan Choi Of the Seventy. October 2023.
+- “Do you want to be happy? What makes you unhappy? President Russell M. Nelson said: “If you want to be miserable, break the commandments—and never repent. If you want joy, stay on the covenant path.”[1](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note1) Isn’t it simple to be happy? Just make covenants and keep them in your lives. Let us review some things that can help us to stay on the covenant path and make us happy.“
+
+**What is Gods Covenant Path**
+I liked this part.
+- According to Elder Dale G. Renlund, “the term _covenant path_ refers to a series of covenants whereby we come to Christ and connect to Him. Through this covenant bond, we have access to His eternal power. The path begins with faith in Jesus Christ and repentance, followed by baptism and receiving the Holy Ghost.”[2](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note2) We renew these covenants every time we partake of the sacrament.
+- Beginning with the baptismal covenant, we make more covenants throughout our lives. Again, Elder Renlund said: “The covenant path leads to the ordinances of the temple, such as the temple endowment. The endowment is God’s gift of sacred covenants that connect us more fully to Him.”[3](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note3)
+
+This is very interesting. Everyone goes on about a covenant relationship. But I feel this is more what they’re talking about. Covenant bond. 
+
+He says more on the topic of covenant bond like yoking with another person. 
+
+“My wife says that our marriage yokes us together, and because of that she can do things she couldn’t do before. For example, ever since she was young, she has had a hard time going out in the dark, but it is not hard anymore because I go with her. She is short and cannot reach to the high shelves unless she uses a chair or ladder, but I can reach the things from high shelves for her because I am taller than her. Taking our Savior’s yoke upon us is like that. As we yoke ourselves to Him, we can do things we couldn’t do on our own because He can do the things we cannot do for ourselves.”
+
+Elder David A. Bednar said: “Making and keeping sacred covenants yokes us to and with the Lord Jesus Christ. In essence, the Savior is beckoning us to rely upon and pull together with Him, even though our best efforts are not equal to and cannot be compared with His. As we trust in and pull our load with Him during the journey of mortality, truly His yoke is easy and His burden is light.”[8](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note8)
+
+***
 
 [Oct 6, 2021 at 8:58 AM]
 

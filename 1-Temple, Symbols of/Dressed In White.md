@@ -1,10 +1,12 @@
+# Dressed in White
+
 [Dec 21, 2023 at 8:39 AM]
 
 When you attend the temple, you go to the locker room and change out of your “street” clothes and into your “white” clothes. Everyone wears all white, except for aprons which are green.
 
   
 
-Possible Meanings
+### Possible Meanings
 
 - Purity/cleanliness - “washed clean by the blood of the lamb” begins endowment. [Temple recommend interview questions](https://www.churchofjesuschrist.org/study/manual/general-handbook/26-temple-recommends?lang=eng&id=title_number30#title_number30). If not keeping commandments denied a recommend.
     
@@ -15,7 +17,7 @@ Possible Meanings
 
   
 
-Hindrances 
+### Hindrances 
 
 - Wrist watches can still be worn
     
@@ -30,7 +32,7 @@ Hindrances 
 
   
 
-Scriptural Examples
+### Scriptural Examples
 
 - “[White, whiter, whiteness](https://www.churchofjesuschrist.org/study/scriptures/triple-index/white?lang=eng#p6)” - triple combination index
 

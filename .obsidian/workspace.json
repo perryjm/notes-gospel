@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotebook/AI, President Monson.md",
-                "mode": "source",
+                "file": "Free-Writes/2023-04-20.md",
+                "mode": "preview",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quotebook/AI, President Monson.md",
+                "file": "Free-Writes/2023-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quotebook/AI, President Monson.md",
+                "file": "Free-Writes/2023-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quotebook/AI, President Monson.md"
+                "file": "Free-Writes/2023-04-20.md"
               }
             }
           }
@@ -141,15 +142,34 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "d42913f5c4338ab0",
   "lastOpenFiles": [
-    "Quotebook/Joy from Acting on Truth, Oaks.md",
+    "1-Staging/All Gospel Library.md",
+    "1-Staging/David.md",
+    "Glossary/Purity.md",
+    "1-Temple, Symbols of/Symbols.md",
+    "1-Temple, Symbols of/Return and Report.md",
+    "1-Temple, Symbols of/Dressed In White.md",
+    "1-Temple, Symbols of",
+    "1-Staging/1-Daily Reading.md",
+    "1-Daily Reading.md",
+    "().md",
+    "Reference Material/True to the Faith.md",
+    "Reference Material/Mormon Doctrine.md",
+    "At Church Learnings/2023-03-27.md",
+    "Free-Writes/2023-12-03.md",
+    "Free-Writes/2023-05-14.md",
+    "Free-Writes/2023-04-20.md",
+    "Glossary/Agency.md",
+    "Reference Material/True to the Faith.mdx",
+    "Reference Material/Mormon Doctrine.mdx",
     "Quotebook/AI, President Monson.md",
+    "Quotebook/Joy from Acting on Truth, Oaks.md",
     "Quotebook/Revelation, President Lee.md",
     "Quotebook/Parenting, Brene Brown.md",
     "Quotebook/Inspiration, President Nelson.md",
@@ -158,31 +178,12 @@
     "Quotebook/Self-Reliance, President Romney.md",
     "Quotebook/You’ll Miss Raising Children.md",
     "Quotebook/Slums, President Benson.md",
-    "Glossary/Priesthood.md",
-    "Glossary/Purity.md",
-    "Lessons Taught/Not as the World Giveth.md",
-    "Personal Blessings/Patriarchal Blessing.md",
-    "Study Recap/Study Recap.md",
     "Study Recap",
-    "At Church Learnings/2023-03-27.md",
-    "Conference Notes/General Conference.md",
-    "Temple, Symbols of/Return and Report.md",
-    "Temple, Symbols of/Symbols.md",
-    "Temple, Symbols of/Dressed In White.md",
-    "1-Staging/David.md",
-    "Calling Notes/EQ Sec. Hand Off.md",
-    "Conference Notes/Grasslands 3rd Ward Stake Conference.md",
-    "Conference Notes/Provo Stake Conference.md",
-    "Free-Writes/2023-05-14.md",
-    "Free-Writes/2023-04-20.md",
     "1-Staging",
     "At Church Learnings",
     "Personal Blessings",
     "Quotebook",
     "Free-Writes",
-    "Lessons Taught",
-    "Temple, Symbols of",
-    "Glossary",
-    "Calling Notes"
+    "Lessons Taught"
   ]
 }

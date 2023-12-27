@@ -21,15 +21,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotebook/Slums, President Benson.md",
+                "file": "Reference Material/Mormon Doctrine.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f865734c51bee6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Temple, Symbols of/Bar of God.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#us-v-the-world",
+            "query": "priesthood",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -95,7 +108,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quotebook/Slums, President Benson.md"
+            "file": "1-Temple, Symbols of/Bar of God.md"
           }
         }
       }
@@ -112,44 +125,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9b7a60a6fdcfddb7",
+  "active": "f865734c51bee6c4",
   "lastOpenFiles": [
-    "Quotebook/You’ll Miss Raising Children.md",
-    "Free-Writes/2023-12-03.md",
+    "1-Staging/1-Daily Reading.md",
+    "1-Temple, Symbols of/Bar of God.md",
+    "1-Temple, Symbols of/Dressed In White.md",
+    "Study Recap/Study Recap.md",
+    "1-Staging/All Gospel Library.md",
+    "1-Temple, Symbols of/Return and Report.md",
+    "Reference Material/Mormon Doctrine.md",
+    "1-Temple, Symbols of/Symbols.md",
     "At Church Learnings/2023-03-27.md",
     "1-Staging/David.md",
+    "().md",
+    "Quotebook/Covenant Keeper, President Nelson.md",
+    "Quotebook/AI, President Monson.md",
+    "Quotebook/Slums, President Benson.md",
+    "Reference Material/True to the Faith.md",
+    "Glossary/Agency.md",
+    "Study Recap",
+    "Quotebook/Scientific Truth is not the whole of life, Oaks.md",
+    "Quotebook/Inspiration, President Nelson.md",
+    "Quotebook/Parenting, Brene Brown.md",
+    "Quotebook/Self-Reliance, President Romney.md",
+    "Quotebook/Revelation, President Lee.md",
+    "Quotebook/Joy from Acting on Truth, Oaks.md",
+    "Quotebook/You’ll Miss Raising Children.md",
+    "Free-Writes/2023-12-03.md",
     "Free-Writes/2023-04-20.md",
     "Calling Notes/EQ Sec. Hand Off.md",
     "Reference Material",
-    "Free-Writes/2023-05-14.md",
     "Calling Notes",
     "Free-Writes",
-    "Personal Blessings/Patriarchal Blessing.md",
     "At Church Learnings",
-    "Temple, Symbols of/Symbols.md",
     "Personal Blessings",
-    "Quotebook/Scientific Truth is not the whole of life.md",
-    "Lessons Taught/Not as the World Giveth.md",
-    "Glossary/Priesthood.md",
     "Lessons Taught",
-    "Glossary/Purity.md",
     "Misc",
-    "Conference Notes/General Conference.md",
     "1-Staging",
-    "Conference Notes/Grasslands 3rd Ward Stake Conference.md",
     "Glossary",
-    "Conference Notes/Provo Stake Conference.md",
-    "Temple, Symbols of/Dressed In White.md",
-    "Conference Notes",
-    "Quotebook/Slums, President Benson.md",
-    "Temple, Symbols of/Return and Report.md",
-    "Thu Feb 21 14:46:04 MST 2019.md",
-    "Sat Sep 29 14:17:30 MDT 2018.md",
-    "Tue Mar 17 14:45:16 MDT 2020.md",
-    "Sun Jun 18 17:05:56 MDT 2023.md",
-    "Wed Dec 30 15:29:01 MST 2020.md",
-    "Thu Jul 14 14:30:26 MDT 2022.md",
-    "I have learned for myself.md",
     "Apple Notes Attachments/7F203374-E222-42FE-BD6D-7709F129F165.jpg",
     "Apple Notes Attachments/79003B9A-DACF-4151-81CD-16CC4EF638AC.jpg",
     "Apple Notes Attachments/ADD52800-C7A1-4D97-819B-AC471C846CFC.jpg",

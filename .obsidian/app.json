@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
   "newFileLocation": "root",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "livePreview": false
 }
