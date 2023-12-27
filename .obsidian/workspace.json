@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desk/Basecamp.md",
+                "file": "Glossary/Bar of God.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b9911c02283c230d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference-Material/Pleading Bar of God.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#agency",
+                "query": "tag:#temple",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -92,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c34ba8ed8bdc292e",
@@ -103,35 +115,6 @@
         "id": "96913e9938cd6d21",
         "type": "tabs",
         "children": [
-          {
-            "id": "5243837a7e716ac1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Free-Writes/2023-12-03.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "801d9f61c74babba",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Free-Writes/2023-12-03.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "40bc98736cad1c40",
             "type": "leaf",
@@ -149,11 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desk/Basecamp.md"
+                "file": "Reference-Material/Pleading Bar of God.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,25 +154,26 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "affdab27c16d0c58",
+  "active": "b9911c02283c230d",
   "lastOpenFiles": [
-    "Desk/Study Recap.md",
-    "Desk/Basecamp.md",
+    "Reference-Material/The Pleading Bar of God.pdf",
     "Reference-Material/Pleading Bar of God.md",
+    "Desk/Basecamp.md",
     "Glossary/Bar of God.md",
+    "Glossary/Dressed In White.md",
+    "Glossary/Priesthood.md",
+    "Desk/Study Recap.md",
     "Pleading Bar of God.pdf.md",
     "Quotebook/Self-Reliance, President Romney.md",
     "Glossary/Agency.md",
     "Glossary/Symbols.md",
     "Glossary/Return and Report.md",
-    "Glossary/Dressed In White.md",
-    "Glossary/Priesthood.md",
     "Glossary/Purity.md",
     "Calling-Notes/EQ Sec. Hand Off.md",
     "Journal/2023-04-20 - Impressions at work.md",
     "Journal/2023-05-14 - Things are bad.md",
     "Journal/2023-12-03 - Jesus is the answer.md",
-    "Lessons Taught/Not as the World Giveth.md",
+    "Lessons-Taught/Not as the World Giveth.md",
     "Meeting-Notes/EQ Presidency Meeting.md",
     "Meeting-Notes/General Conference.md",
     "Meeting-Notes/Sacrament Meeting.md",
@@ -196,17 +181,15 @@
     "Symbols",
     "Reference-Material/Mormon Doctrine.md",
     "Reference-Material/True to the Faith.md",
-    "Reference-Material/The Pleading Bar of God.pdf",
     "Quotebook/You’ll Miss Raising Children.md",
     "Quotebook/Parenting, Brene Brown.md",
-    "Glossary/Bar.md",
     "Symbols",
     "Reference Material/True to the Faith.mdx",
     "Reference Material/Mormon Doctrine.mdx",
     "Study Recap",
     "Desk",
     "At Church Learnings",
-    "Personal Blessings",
+    "Personal-Blessings",
     "Quotebook"
   ]
 }

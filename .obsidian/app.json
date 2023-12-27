@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true,
+  "alwaysUpdateLinks": false,
   "showInlineTitle": false,
   "newFileLocation": "root",
   "useMarkdownLinks": true,
@@ -9,5 +9,6 @@
     "Reference Material/"
   ],
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "Reference-Material"
+  "attachmentFolderPath": "Reference-Material",
+  "showUnsupportedFiles": true
 }
