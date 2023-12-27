@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2d53902a5c5e918e",
+        "id": "dd5e3b1f54d36063",
         "type": "tabs",
         "children": [
           {
-            "id": "d42913f5c4338ab0",
+            "id": "360f414854651fbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Free-Writes/2023-04-20.md",
+                "file": "Study Recap/Study Recap.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c34ba8ed8bdc292e",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Free-Writes/2023-04-20.md"
+                "file": "Study Recap/Study Recap.md"
               }
             }
           }
@@ -147,8 +148,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d42913f5c4338ab0",
+  "active": "360f414854651fbf",
   "lastOpenFiles": [
+    "1-Staging/1-Daily Reading.md",
+    "Study Recap/Study Recap.md",
+    "Free-Writes/2023-04-20.md",
     "1-Staging/All Gospel Library.md",
     "1-Staging/David.md",
     "Glossary/Purity.md",
@@ -156,7 +160,6 @@
     "1-Temple, Symbols of/Return and Report.md",
     "1-Temple, Symbols of/Dressed In White.md",
     "1-Temple, Symbols of",
-    "1-Staging/1-Daily Reading.md",
     "1-Daily Reading.md",
     "().md",
     "Reference Material/True to the Faith.md",
@@ -164,7 +167,6 @@
     "At Church Learnings/2023-03-27.md",
     "Free-Writes/2023-12-03.md",
     "Free-Writes/2023-05-14.md",
-    "Free-Writes/2023-04-20.md",
     "Glossary/Agency.md",
     "Reference Material/True to the Faith.mdx",
     "Reference Material/Mormon Doctrine.mdx",
@@ -177,7 +179,6 @@
     "Quotebook/Scientific Truth is not the whole of life, Oaks.md",
     "Quotebook/Self-Reliance, President Romney.md",
     "Quotebook/You’ll Miss Raising Children.md",
-    "Quotebook/Slums, President Benson.md",
     "Study Recap",
     "1-Staging",
     "At Church Learnings",
