@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Symbols.md",
+                "file": "Reference-Material/Pleading Bar of God.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#symbol",
+                "query": "tag:#agency",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Symbols.md"
+                "file": "Reference-Material/Pleading Bar of God.md"
               }
             }
           }
@@ -156,15 +155,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b2e07eb553e3a48a",
+  "active": "360f414854651fbf",
   "lastOpenFiles": [
+    "Glossary/Bar of God.md",
+    "Pleading Bar of God.pdf.md",
+    "Reference-Material/Pleading Bar of God.md",
+    "Quotebook/Self-Reliance, President Romney.md",
+    "Glossary/Agency.md",
+    "Desk/Study Recap.md",
+    "Desk/Basecamp.md",
+    "Glossary/Symbols.md",
     "Glossary/Return and Report.md",
     "Glossary/Dressed In White.md",
-    "Glossary/Bar of God.md",
-    "Glossary/Agency.md",
     "Glossary/Priesthood.md",
     "Glossary/Purity.md",
-    "Glossary/Symbols.md",
     "Calling-Notes/EQ Sec. Hand Off.md",
     "Journal/2023-04-20 - Impressions at work.md",
     "Journal/2023-05-14 - Things are bad.md",
@@ -174,23 +178,18 @@
     "Meeting-Notes/General Conference.md",
     "Meeting-Notes/Sacrament Meeting.md",
     "Meeting-Notes/Stake Conference.md",
-    "1-Desk/Study Recap.md",
     "Symbols",
-    "1-Desk/1-Home.md",
     "Reference-Material/Mormon Doctrine.md",
     "Reference-Material/True to the Faith.md",
     "Reference-Material/The Pleading Bar of God.pdf",
     "Quotebook/You’ll Miss Raising Children.md",
     "Quotebook/Parenting, Brene Brown.md",
     "Glossary/Bar.md",
-    "At Church Learnings/2023-03-27.md",
-    "Conference Notes/Provo Stake Conference.md",
-    "1-Staging/All Gospel Library.md",
     "Symbols",
     "Reference Material/True to the Faith.mdx",
     "Reference Material/Mormon Doctrine.mdx",
     "Study Recap",
-    "1-Desk",
+    "Desk",
     "At Church Learnings",
     "Personal Blessings",
     "Quotebook"

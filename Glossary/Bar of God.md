@@ -25,5 +25,5 @@ Mentioned only in the Book of Mormon, the bar of God is referenced as a place on
 - Moroni 10:34
 
 ### Related Research
-- The Pleading Bar of God [PDF](The%20Pleading%20Bar%20of%20God.pdf). See [original source](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1258&context=insights)
+- [Pleading Bar of God](/Reference-Material/Pleading%20Bar%20of%20God)
 
