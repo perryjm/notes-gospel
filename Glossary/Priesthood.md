@@ -36,7 +36,7 @@ Women do not have the priesthood conferred upon them and are not ordained to off
 
   
 
-(High Priestesses ) 
+#### (High Priestesses ) 
 
 See HIGH PRIESTS, PRIESTESSES, PRIESTHOOD. 
 
@@ -46,7 +46,7 @@ Mormon Doctrine. Bruce R. McConkie
 
   
 
-Priesthood 
+#### Priesthood 
 
 (Priesthood ) 
 

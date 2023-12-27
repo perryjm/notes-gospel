@@ -2,6 +2,6 @@
 #agency 
 #principle
 
-The ability to choose right from wrong. The God given right to choose between right and wrong.
+The God given right and ability to choose between good and evil.
 
  

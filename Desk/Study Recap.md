@@ -7,7 +7,7 @@
 **3 Nephi 11**
 “Hosanna! Blessed be the name of the Most High God!” - 3 Nephi 11:17
 
-☝️ that is the hosanna shout.
+☝️ that is the hosanna shout. They did that when the savior arrived. Did he lead them in that shout?
 
 **Baptism**
 One of the first thing Jesus does is asks by name for the prophet to come forward. Nephi does. And Jesus teaches baptism to all of them. He explains how to do it, and what to say.  Versus 24-26

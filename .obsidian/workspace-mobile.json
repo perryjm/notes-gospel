@@ -11,38 +11,16 @@
             "id": "2a7c1387b1f40cda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9b7a60a6fdcfddb7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Material/Mormon Doctrine.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f865734c51bee6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Staging/1-Home.md",
+                "file": "Personal Blessings/Patriarchal Blessing.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "priesthood",
+            "query": "tag:#agency",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -116,7 +94,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Reference Material/Mormon Doctrine.md"
+            "file": "Personal Blessings/Patriarchal Blessing.md"
           }
         }
       }
@@ -133,8 +111,33 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9b7a60a6fdcfddb7",
+  "active": "2a7c1387b1f40cda",
   "lastOpenFiles": [
+    "Glossary/Priesthood.md",
+    "Desk/Basecamp.md",
+    "Glossary/Agency.md",
+    "Glossary/Bar of God.md",
+    "Desk/Study Recap.md",
+    "Glossary/Return and Report.md",
+    "Reference-Material/Pleading Bar of God.md",
+    "Meeting-Notes/EQ Presidency Meeting.md",
+    "Reference Material/Mormon Doctrine.md",
+    "Glossary/Dressed In White.md",
+    "Glossary/Symbols.md",
+    "Journal/2023-12-03 - Jesus is the answer.md",
+    "Journal/2023-04-20 - Impressions at work.md",
+    "Journal/2023-05-14 - Things are bad.md",
+    "Journal",
+    "Desk/David.md",
+    "Desk",
+    "Reference-Material/Mormon Doctrine.md",
+    "Reference-Material/True to the Faith.md",
+    "Reference-Material/The Pleading Bar of God.pdf",
+    "Reference-Material",
+    "Meeting-Notes/Stake Conference.md",
+    "Meeting-Notes/General Conference.md",
+    "Meeting-Notes/Sacrament Meeting.md",
+    "Meeting-Notes",
     "1-Staging/1-Home.md",
     "Reference Material/The Pleading Bar of God.pdf",
     "1-Symbols/Bar of God.md",
@@ -142,34 +145,10 @@
     "Meeting Notes/Sacrament Meeting.md",
     "1-Staging/1-Daily Reading.md",
     "1-Temple, Symbols of/Bar of God.md",
-    "1-Temple, Symbols of/Dressed In White.md",
-    "Study Recap/Study Recap.md",
-    "1-Staging/All Gospel Library.md",
-    "1-Temple, Symbols of/Return and Report.md",
-    "Reference Material/Mormon Doctrine.md",
-    "1-Temple, Symbols of/Symbols.md",
-    "At Church Learnings/2023-03-27.md",
-    "1-Staging/David.md",
-    "().md",
-    "Quotebook/Covenant Keeper, President Nelson.md",
-    "Quotebook/AI, President Monson.md",
-    "Quotebook/Slums, President Benson.md",
-    "Reference Material/True to the Faith.md",
-    "Glossary/Agency.md",
     "Study Recap",
-    "Quotebook/Scientific Truth is not the whole of life, Oaks.md",
-    "Quotebook/Inspiration, President Nelson.md",
-    "Quotebook/Parenting, Brene Brown.md",
-    "Quotebook/Self-Reliance, President Romney.md",
-    "Quotebook/Revelation, President Lee.md",
     "Reference Material",
     "Calling Notes",
     "Free-Writes",
-    "At Church Learnings",
-    "Personal Blessings",
-    "Lessons Taught",
-    "Misc",
-    "1-Staging",
     "Apple Notes Attachments/7F203374-E222-42FE-BD6D-7709F129F165.jpg",
     "Apple Notes Attachments/79003B9A-DACF-4151-81CD-16CC4EF638AC.jpg",
     "Apple Notes Attachments/ADD52800-C7A1-4D97-819B-AC471C846CFC.jpg",

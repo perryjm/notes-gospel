@@ -1,3 +1,5 @@
+# Patriarchal Blessing
+
 Revelation given through the patriarch Leslie T. Bills in his home on Sunday December 29, 2002. The Patriarch of the Meridian, ID West Stake had given 259 blessings previous to this. The Blessing was given to Jared Michael Perry (at age 14), son of Danial Leroy Perry, and Doreen Marie Klippel. The blessing was prepared for through fasting, and was given in the company of the whole family consisting at that time of two parents and four children.
 
   
