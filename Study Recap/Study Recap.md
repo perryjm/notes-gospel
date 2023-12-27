@@ -1,4 +1,4 @@
-### [1-Daily Reading](/1-Staging/1-Daily%20Reading.md)
+### [1-Home](/1-Staging/1-Home.md)
 
 
 ***

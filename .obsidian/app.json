@@ -4,5 +4,8 @@
   "showInlineTitle": false,
   "newFileLocation": "root",
   "useMarkdownLinks": true,
-  "livePreview": false
+  "livePreview": false,
+  "userIgnoreFilters": [
+    "Reference Material/"
+  ]
 }

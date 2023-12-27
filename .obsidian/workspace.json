@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Recap/Study Recap.md",
+                "file": "1-Symbols/Bar of God.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "89e53b30c9a69140",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Material/The Pleading Bar of God.pdf"
               }
             }
           }
@@ -127,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Study Recap/Study Recap.md"
+                "file": "1-Symbols/Bar of God.md"
               }
             }
           }
@@ -150,41 +160,40 @@
   },
   "active": "360f414854651fbf",
   "lastOpenFiles": [
-    "1-Staging/1-Daily Reading.md",
+    "Reference Material/The Pleading Bar of God.pdf",
+    "Glossary/Bar.md",
+    "1-Symbols/Bar of God.md",
+    "1-Staging/1-Home.md",
+    "Glossary/Priesthood.md",
+    "Reference Material/True to the Faith.md",
+    "Reference Material/Mormon Doctrine.md",
+    "Meeting Notes/Sacrament Meeting.md",
+    "At Church Learnings/2023-03-27.md",
+    "Meeting Notes/General Conference.md",
+    "Meeting Notes/Stake Conference.md",
+    "Conference Notes/Provo Stake Conference.md",
     "Study Recap/Study Recap.md",
     "Free-Writes/2023-04-20.md",
     "1-Staging/All Gospel Library.md",
     "1-Staging/David.md",
     "Glossary/Purity.md",
-    "1-Temple, Symbols of/Symbols.md",
-    "1-Temple, Symbols of/Return and Report.md",
-    "1-Temple, Symbols of/Dressed In White.md",
-    "1-Temple, Symbols of",
+    "1-Symbols/Symbols.md",
+    "1-Symbols/Return and Report.md",
+    "1-Symbols/Dressed In White.md",
+    "1-Symbols",
     "1-Daily Reading.md",
     "().md",
-    "Reference Material/True to the Faith.md",
-    "Reference Material/Mormon Doctrine.md",
-    "At Church Learnings/2023-03-27.md",
     "Free-Writes/2023-12-03.md",
     "Free-Writes/2023-05-14.md",
     "Glossary/Agency.md",
     "Reference Material/True to the Faith.mdx",
     "Reference Material/Mormon Doctrine.mdx",
     "Quotebook/AI, President Monson.md",
-    "Quotebook/Joy from Acting on Truth, Oaks.md",
-    "Quotebook/Revelation, President Lee.md",
-    "Quotebook/Parenting, Brene Brown.md",
-    "Quotebook/Inspiration, President Nelson.md",
-    "Quotebook/Covenant Keeper, President Nelson.md",
-    "Quotebook/Scientific Truth is not the whole of life, Oaks.md",
-    "Quotebook/Self-Reliance, President Romney.md",
-    "Quotebook/You’ll Miss Raising Children.md",
     "Study Recap",
     "1-Staging",
     "At Church Learnings",
     "Personal Blessings",
     "Quotebook",
-    "Free-Writes",
-    "Lessons Taught"
+    "Free-Writes"
   ]
 }

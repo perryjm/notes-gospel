@@ -32,12 +32,9 @@
             "id": "f865734c51bee6c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1-Temple, Symbols of/Bar of God.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Reference Material/The Pleading Bar of God.pdf"
               }
             }
           }
@@ -108,7 +105,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-Temple, Symbols of/Bar of God.md"
+            "file": "Reference Material/The Pleading Bar of God.pdf"
           }
         }
       }
@@ -125,8 +122,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "f865734c51bee6c4",
+  "active": "33dc4deb8e58dd6f",
   "lastOpenFiles": [
+    "1-Symbols/Bar of God.md",
+    "1-Staging/1-Home.md",
+    "Glossary/Bar.md",
+    "Meeting Notes/Sacrament Meeting.md",
+    "Reference Material/The Pleading Bar of God.pdf",
     "1-Staging/1-Daily Reading.md",
     "1-Temple, Symbols of/Bar of God.md",
     "1-Temple, Symbols of/Dressed In White.md",
@@ -150,10 +152,6 @@
     "Quotebook/Self-Reliance, President Romney.md",
     "Quotebook/Revelation, President Lee.md",
     "Quotebook/Joy from Acting on Truth, Oaks.md",
-    "Quotebook/You’ll Miss Raising Children.md",
-    "Free-Writes/2023-12-03.md",
-    "Free-Writes/2023-04-20.md",
-    "Calling Notes/EQ Sec. Hand Off.md",
     "Reference Material",
     "Calling Notes",
     "Free-Writes",
@@ -162,7 +160,6 @@
     "Lessons Taught",
     "Misc",
     "1-Staging",
-    "Glossary",
     "Apple Notes Attachments/7F203374-E222-42FE-BD6D-7709F129F165.jpg",
     "Apple Notes Attachments/79003B9A-DACF-4151-81CD-16CC4EF638AC.jpg",
     "Apple Notes Attachments/ADD52800-C7A1-4D97-819B-AC471C846CFC.jpg",

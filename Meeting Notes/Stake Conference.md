@@ -1,3 +1,10 @@
+### Springville West Stake Conference
+
+***
+
+
+***
+
 [Saturday August 21, 2021]
 
 - Jen dial spoke about meeting the church librarian woman who unfortunately hit her son on a bike.
@@ -15,3 +22,9 @@
 - He encouraged all of us to follow elder renlunds words and become stone catchers not stone throwers
 - He said if the Savior allowed the people in the Americas he visited to feel the prince in his hands for 15 seconds per person he would’ve been standing there for 10 1/2 hours connecting one on one with people
 - He said we should follow the saviors example and seek to be part of other groups and connect with people one on one like the Savior
+
+
+### Provo Stake Conference
+[2/2/2020]
+
+Make daily repentance a habit. Like running. Try to develop a runner’s heart, a disciples heart.
