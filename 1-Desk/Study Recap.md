@@ -1,4 +1,4 @@
-### [1-Home](/1-Staging/1-Home.md)
+### [1-Home](1-Home.md)
 
 
 ***
@@ -22,6 +22,7 @@ He says immerse. You don’t find that word in the Bible. [See topical guide imm
 
 Baptism is one of the clearest ordinances explained in the scriptures. 
 
+Working on [Bar of God](Bar%20of%20God.md)
 
 ***
 ##### December 26, 2023

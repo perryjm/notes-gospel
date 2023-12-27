@@ -1,4 +1,8 @@
-[Apr 1, 2021 at 7:51 AM] 
+# General Conference Notes
+
+
+
+## 2021-04
 I have to start using this tool more often. It works surprisingly well. It syncs with the digital library very well now. I need to start really leaning into this tool. 
 
   

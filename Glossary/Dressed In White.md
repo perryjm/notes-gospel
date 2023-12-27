@@ -1,6 +1,7 @@
 # Dressed in White
 
-[Dec 21, 2023 at 8:39 AM]
+#symbol 
+#temple 
 
 When you attend the temple, you go to the locker room and change out of your “street” clothes and into your “white” clothes. Everyone wears all white, except for aprons which are green.
 
@@ -36,6 +37,3 @@ When you attend the temple, you go to the locker room and change out of your “
 
 - “[White, whiter, whiteness](https://www.churchofjesuschrist.org/study/scriptures/triple-index/white?lang=eng#p6)” - triple combination index
 
-
-#symbols 
-#temple 

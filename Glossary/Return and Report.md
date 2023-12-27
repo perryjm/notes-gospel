@@ -1,6 +1,6 @@
 # Return and Report
-
-[Dec 20, 2023 at 7:36 AM]
+#symbol 
+#temple 
 
 The Savior and Michael leave from the presence of God with instruction, perform their instructions and then go back to God saying, “come Michael we will return and report.” It’s repeated many times.
 
@@ -38,5 +38,3 @@ Scriptural Examples
     
 - Blood of the prophets shall not return unto me anymore against them 3 Nephi 9:5
 
-#symbols 
-#temple 

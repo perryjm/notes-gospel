@@ -32,14 +32,17 @@
             "id": "f865734c51bee6c4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Reference Material/The Pleading Bar of God.pdf"
+                "file": "1-Staging/1-Home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +94,14 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "735e99e11de3ec08",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -105,7 +116,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Reference Material/The Pleading Bar of God.pdf"
+            "file": "Reference Material/Mormon Doctrine.md"
           }
         }
       }
@@ -122,13 +133,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "33dc4deb8e58dd6f",
+  "active": "9b7a60a6fdcfddb7",
   "lastOpenFiles": [
-    "1-Symbols/Bar of God.md",
     "1-Staging/1-Home.md",
+    "Reference Material/The Pleading Bar of God.pdf",
+    "1-Symbols/Bar of God.md",
     "Glossary/Bar.md",
     "Meeting Notes/Sacrament Meeting.md",
-    "Reference Material/The Pleading Bar of God.pdf",
     "1-Staging/1-Daily Reading.md",
     "1-Temple, Symbols of/Bar of God.md",
     "1-Temple, Symbols of/Dressed In White.md",
@@ -151,7 +162,6 @@
     "Quotebook/Parenting, Brene Brown.md",
     "Quotebook/Self-Reliance, President Romney.md",
     "Quotebook/Revelation, President Lee.md",
-    "Quotebook/Joy from Acting on Truth, Oaks.md",
     "Reference Material",
     "Calling Notes",
     "Free-Writes",

@@ -1,11 +1,8 @@
-### Springville West Stake Conference
-
-***
+# Stake Conference
 
 
-***
 
-[Saturday August 21, 2021]
+## Springville West Stake 2021-08-21 Saturday
 
 - Jen dial spoke about meeting the church librarian woman who unfortunately hit her son on a bike.
 - She talked about forgiving
@@ -24,7 +21,6 @@
 - He said we should follow the saviors example and seek to be part of other groups and connect with people one on one like the Savior
 
 
-### Provo Stake Conference
-[2/2/2020]
+## Provo Stake Conference 2020-02-02
 
 Make daily repentance a habit. Like running. Try to develop a runner’s heart, a disciples heart.

@@ -1,5 +1,9 @@
-[Oct 3, 2023 at 8:26 AM]
+# EQ Presidency Meeting Notes
 
+
+## 2023-10-03
+
+### Hand-off to a New Presidency
 Not sure why, but I'm hearing my brain run social simulations of a new EQ presidency meeting for the first time and deciding on how to be organized. I think I might say something like this….
 
   

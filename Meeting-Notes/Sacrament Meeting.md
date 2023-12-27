@@ -1,12 +1,8 @@
-### Sacrament Meeting Grasslands 3rd Ward
-
-***
+### Sacrament Meeting Notes
 
 
 
-***
-
-[Mar 27, 2023 at 6:28 PM]
+## Grasslands 3rd Ward 2023-03-27
 
 * God performs miracles 
 

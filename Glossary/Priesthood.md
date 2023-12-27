@@ -1,7 +1,11 @@
-[June 25, 2023]
+# Priesthood
+#priesthood 
+#ordain-women
+#priesthood-keys
+#principle
 
-Priesthood
 
+## Definitions
 Simplistic definition: The ability to act in God’s name here on the earth. 
 
   
@@ -18,11 +22,11 @@ Question: Where in the scriptures specifically does it say Priesthood is a male-
 
   
 
-Research
+## Mormon Doctrine Excerpts
 
   
 
-Priestesses 
+#### Priestesses 
 
 (Priestesses ) 
 
@@ -62,7 +66,7 @@ As pertaining to man's existence on this earth, priesthood is the power and auth
 
   
 
-Priesthood is eternal
+## Priesthood is eternal
 
 “The Priesthood is everlasting.”
 
@@ -82,7 +86,7 @@ Bruce R McConkie - Mormon Doctrine
 
   
 
-—
+***
 
 “An ordinance is most commonly officiated by persons who have been ordained to an office in the priesthood acting under the direction of one who holds priesthood keys. For example, the holders of the various offices of the Aaronic Priesthood officiate in the ordinance of the sacrament under the keys and direction of the bishop, who holds the keys of the Aaronic Priesthood. The same principle applies to the priesthood ordinances in which women officiate in the temple. Though women do not hold an office in the priesthood, they perform sacred temple ordinances under the authorization of the president of the temple, who holds the keys for the ordinances of the temple.”
 
@@ -92,7 +96,7 @@ Dallin H. Oaks. The Melchizedek Priesthood and the Keys. April 2020.
 
   
 
-“The word priesthood has two meanings.”
+## “The word priesthood has two meanings.”
 
 https://www.churchofjesuschrist.org/study/manual/gospel-topics/priesthood?lang=eng
 
@@ -112,7 +116,7 @@ https://www.churchofjesuschrist.org/study/manual/gospel-topics/priesthood?lang=e
 
   
 
-“Priesthood Authority”
+## “Priesthood Authority”
 
 “Priesthood authority is the authorization to represent God and act in His name. In the Church, all priesthood authority is exercised under the direction of those who hold priesthood keys.”
 
@@ -120,7 +124,7 @@ https://www.churchofjesuschrist.org/study/manual/general-handbook/3-priesthood-p
 
   
 
-All Males
+## All Males
 
 “He has heard our prayers, and by revelation has confirmed that the long-promised day has come when every faithful, worthy man in the Church may receive the holy priesthood, with power to exercise its divine authority, and enjoy with his loved ones every blessing that flows therefrom, including the blessings of the temple.”
 
@@ -154,7 +158,7 @@ https://www.churchofjesuschrist.org/inspiration/how-can-women-receive-gods-pries
 
   
 
-Power vs. Authority
+## Power vs. Authority
 
 “Priesthood holders have been authorized to represent God and act in His name to perform ordinances and blessings. This is priesthood authority. Priesthood power, on the other hand, is different. Priesthood power is the power by which God blesses His sons and daughters—His power extends to all members of His Church, both women and men, as they make and keep their covenants with Him.”
 
@@ -166,7 +170,7 @@ https://www.churchofjesuschrist.org/inspiration/how-can-women-receive-gods-pries
 
   
 
-Priesthood Authority
+## Priesthood Authority
 
 Priesthood authority is the authorization to represent God and act in His name. In the Church, all priesthood authority is exercised under the direction of those who hold priesthood keys.
 
@@ -180,7 +184,7 @@ https://www.churchofjesuschrist.org/study/manual/general-handbook/3-priesthood-p
 
   
 
-Setting Apart
+## Setting Apart
 
 “When men and women are set apart under the direction of those who hold priesthood keys, they are given authority from God to act in that calling. When they are released from a calling, they no longer have the authority associated with it.
 
@@ -208,7 +212,7 @@ https://www.churchofjesuschrist.org/study/manual/general-handbook/3-priesthood-p
 
   
 
-Assignment
+## Assignment
 
 Presiding Church leaders can delegate authority by assignment. When men and women receive these assignments, they are given authority from God to act. For example:
 
@@ -226,13 +230,13 @@ https://www.churchofjesuschrist.org/study/manual/general-handbook/3-priesthood-p
 
   
 
-There’s a keyword - preside. 
+## There’s a keyword - preside. 
 
 https://www.churchofjesuschrist.org/study/manual/general-handbook/4-leadership-in-the-church-of-jesus-christ?lang=eng&id=title_number8-p30#title_number8
 
   
 
-Preside in Righteousness
+## Preside in Righteousness
 
 The Lord revealed that “of necessity there are presidents, or presiding officers” in His Church (Doctrine and Covenants 107:21). Those who hold priesthood keys preside in their areas of responsibility, such as a quorum or ward.
 
@@ -282,7 +286,9 @@ https://www.churchofjesuschrist.org/study/manual/general-handbook/4-leadership-i
 
   
 
-Conclusions, Subliminal messages with the questions
+## Conclusions
+
+### Subliminal messages with the questions
 
 At a certain point, where does the questioning stop? There seems to be an implied sub-layer tone to the questions posed by people out on the internet and in “activist” group manifestos… “Why can’t women hold priesthood keys?” And the sub-layer tone seems to be “women are just as good as men, so what’s the deal?” Or another sub-layer tone, “men are part of an oppressive group of authoritarians and seek to rule everyone with an iron fist, that’s why they won’t let women hold priesthood keys.”
 
@@ -310,6 +316,3 @@ I guess You are where the buck stops, authority, wise, and accountability wise, 
 
 I guess part of me wants church leaders to just say it. Say why. Clearly, and to simply say why women cannot hold priest of keys at the highest levels of our church. Maybe the reason I don’t say anything is because they don’t know the true reason. It’s all just speculation. I mean, if there was a readily taught logical explanation that most of the apostles and the prophet agreed on I’m sure they would state it. They’ve had ample opportunity to do so. But yet they haven’t and I think that is telling.
 
-#priesthood 
-#ordain-women
-#priesthood-keys

@@ -13,20 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Symbols/Bar of God.md",
+                "file": "Glossary/Symbols.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "89e53b30c9a69140",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Reference Material/The Pleading Bar of God.pdf"
               }
             }
           }
@@ -59,9 +49,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#parenting",
+                "query": "tag:#symbol",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -75,13 +65,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "42eefe35d52a6c06",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c34ba8ed8bdc292e",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Symbols/Bar of God.md"
+                "file": "Glossary/Symbols.md"
               }
             }
           }
@@ -158,42 +156,43 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "360f414854651fbf",
+  "active": "b2e07eb553e3a48a",
   "lastOpenFiles": [
-    "Reference Material/The Pleading Bar of God.pdf",
-    "Glossary/Bar.md",
-    "1-Symbols/Bar of God.md",
-    "1-Staging/1-Home.md",
-    "Glossary/Priesthood.md",
-    "Reference Material/True to the Faith.md",
-    "Reference Material/Mormon Doctrine.md",
-    "Meeting Notes/Sacrament Meeting.md",
-    "At Church Learnings/2023-03-27.md",
-    "Meeting Notes/General Conference.md",
-    "Meeting Notes/Stake Conference.md",
-    "Conference Notes/Provo Stake Conference.md",
-    "Study Recap/Study Recap.md",
-    "Free-Writes/2023-04-20.md",
-    "1-Staging/All Gospel Library.md",
-    "1-Staging/David.md",
-    "Glossary/Purity.md",
-    "1-Symbols/Symbols.md",
-    "1-Symbols/Return and Report.md",
-    "1-Symbols/Dressed In White.md",
-    "1-Symbols",
-    "1-Daily Reading.md",
-    "().md",
-    "Free-Writes/2023-12-03.md",
-    "Free-Writes/2023-05-14.md",
+    "Glossary/Return and Report.md",
+    "Glossary/Dressed In White.md",
+    "Glossary/Bar of God.md",
     "Glossary/Agency.md",
+    "Glossary/Priesthood.md",
+    "Glossary/Purity.md",
+    "Glossary/Symbols.md",
+    "Calling-Notes/EQ Sec. Hand Off.md",
+    "Journal/2023-04-20 - Impressions at work.md",
+    "Journal/2023-05-14 - Things are bad.md",
+    "Journal/2023-12-03 - Jesus is the answer.md",
+    "Lessons Taught/Not as the World Giveth.md",
+    "Meeting-Notes/EQ Presidency Meeting.md",
+    "Meeting-Notes/General Conference.md",
+    "Meeting-Notes/Sacrament Meeting.md",
+    "Meeting-Notes/Stake Conference.md",
+    "1-Desk/Study Recap.md",
+    "Symbols",
+    "1-Desk/1-Home.md",
+    "Reference-Material/Mormon Doctrine.md",
+    "Reference-Material/True to the Faith.md",
+    "Reference-Material/The Pleading Bar of God.pdf",
+    "Quotebook/You’ll Miss Raising Children.md",
+    "Quotebook/Parenting, Brene Brown.md",
+    "Glossary/Bar.md",
+    "At Church Learnings/2023-03-27.md",
+    "Conference Notes/Provo Stake Conference.md",
+    "1-Staging/All Gospel Library.md",
+    "Symbols",
     "Reference Material/True to the Faith.mdx",
     "Reference Material/Mormon Doctrine.mdx",
-    "Quotebook/AI, President Monson.md",
     "Study Recap",
-    "1-Staging",
+    "1-Desk",
     "At Church Learnings",
     "Personal Blessings",
-    "Quotebook",
-    "Free-Writes"
+    "Quotebook"
   ]
 }
