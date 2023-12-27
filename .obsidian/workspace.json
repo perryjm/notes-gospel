@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "dd5e3b1f54d36063",
+        "id": "6070ffd752a0ac5f",
         "type": "tabs",
         "children": [
           {
-            "id": "360f414854651fbf",
+            "id": "f3436bc6983e414f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference-Material/Pleading Bar of God.md",
+                "file": "Desk/Basecamp.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "affdab27c16d0c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desk/Basecamp.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c34ba8ed8bdc292e",
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference-Material/Pleading Bar of God.md"
+                "file": "Desk/Basecamp.md"
               }
             }
           }
@@ -155,15 +170,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "360f414854651fbf",
+  "active": "affdab27c16d0c58",
   "lastOpenFiles": [
-    "Glossary/Bar of God.md",
-    "Pleading Bar of God.pdf.md",
-    "Reference-Material/Pleading Bar of God.md",
-    "Quotebook/Self-Reliance, President Romney.md",
-    "Glossary/Agency.md",
     "Desk/Study Recap.md",
     "Desk/Basecamp.md",
+    "Reference-Material/Pleading Bar of God.md",
+    "Glossary/Bar of God.md",
+    "Pleading Bar of God.pdf.md",
+    "Quotebook/Self-Reliance, President Romney.md",
+    "Glossary/Agency.md",
     "Glossary/Symbols.md",
     "Glossary/Return and Report.md",
     "Glossary/Dressed In White.md",

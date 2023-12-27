@@ -14,5 +14,7 @@
 
 ##### TODO
 - Create a 'guide to repentance' note
+- [Return and Report](Glossary/Return%20and%20Report.md) Needs more help
+
 ##### Interesting Places
 - [Mormon Studies Commons](https://network.bepress.com/arts-and-humanities/religion/mormon-studies)
