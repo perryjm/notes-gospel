@@ -7,4 +7,4 @@
 
 ***
 
-### [✍️ Study Recap](Study%20Recap/Study%20Recap.md)
+### [✍️ Study Recap](/Study%20Recap/Study%20Recap.md)
