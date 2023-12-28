@@ -2,14 +2,14 @@
 
 
 ***
-##### December 27, 2023
+## 2023-12-27
 
-**3 Nephi 11**
+### 3 Nephi 11
 “Hosanna! Blessed be the name of the Most High God!” - 3 Nephi 11:17
 
 ☝️ that is the hosanna shout. They did that when the savior arrived. Did he lead them in that shout?
 
-**Baptism**
+### Baptism
 One of the first thing Jesus does is asks by name for the prophet to come forward. Nephi does. And Jesus teaches baptism to all of them. He explains how to do it, and what to say.  Versus 24-26
 
 “calling them by name, saying:
@@ -22,11 +22,12 @@ He says immerse. You don’t find that word in the Bible. [See topical guide imm
 
 Baptism is one of the clearest ordinances explained in the scriptures. 
 
+### Bar
 Working on [Bar of God](Bar%20of%20God.md)
 
 ***
-##### December 26, 2023
-###### 3 Nephi 10
+## 2023-12-26
+### 3 Nephi 10
 There was three hours of destruction. And then darkness. Like, *thick* darkness. Not even the stars could be shown. And even the driest of wood could not light for fire. And while they are mourning the loss of their loved ones, the Lord speaks to them, and basically tells them they were spared because they were more righteous than their brethren.
 
 What a way to find out you’re on the right side? I guess. But what is the symbolism? What does it mean?
@@ -34,10 +35,10 @@ What a way to find out you’re on the right side? I guess. But what is the symb
 - You knew someone who died. The mourning. You feel what the father felt. You feel what the apostles and Mary and Joseph felt in Jerusalem when Christ died. 
 - To be coping with that loss, and then, the Lord comes. And you’re a believer. Basically everyone surviving is a believer. And that means they know Christ will conquer death. And when they see Him arrive the third day. They feel it. They know why he’s there. They understand what it means. It’s joyful because they’ll be with their loved ones again. Seeing Christ’s face means we will all live again. 
 
-###### [Do You Want to Be Happy?](https://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng) By Elder Yoon Hwan Choi Of the Seventy. October 2023.
+### [Do You Want to Be Happy?](https://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng) By Elder Yoon Hwan Choi Of the Seventy. October 2023.
 - “Do you want to be happy? What makes you unhappy? President Russell M. Nelson said: “If you want to be miserable, break the commandments—and never repent. If you want joy, stay on the covenant path.”[1](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note1) Isn’t it simple to be happy? Just make covenants and keep them in your lives. Let us review some things that can help us to stay on the covenant path and make us happy.“
 
-**What is Gods Covenant Path**
+#### What is Gods Covenant Path
 I liked this part.
 - According to Elder Dale G. Renlund, “the term _covenant path_ refers to a series of covenants whereby we come to Christ and connect to Him. Through this covenant bond, we have access to His eternal power. The path begins with faith in Jesus Christ and repentance, followed by baptism and receiving the Holy Ghost.”[2](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note2) We renew these covenants every time we partake of the sacrament.
 - Beginning with the baptismal covenant, we make more covenants throughout our lives. Again, Elder Renlund said: “The covenant path leads to the ordinances of the temple, such as the temple endowment. The endowment is God’s gift of sacred covenants that connect us more fully to Him.”[3](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note3)
@@ -50,11 +51,11 @@ He says more on the topic of covenant bond like yoking with another person.
 
 Elder David A. Bednar said: “Making and keeping sacred covenants yokes us to and with the Lord Jesus Christ. In essence, the Savior is beckoning us to rely upon and pull together with Him, even though our best efforts are not equal to and cannot be compared with His. As we trust in and pull our load with Him during the journey of mortality, truly His yoke is easy and His burden is light.”[8](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note8)
 
-***
+## 2021-10-06
 
 [Oct 6, 2021 at 8:58 AM]
 
-Alma 30-31:29
+### Alma 30-31:29
 
 Korihor is tried among the ammonites who ship him up to Alma to be dealt with. Alma argues with him a bit and realizes he’s possessed with a lying spirit. Pretty much tells him if he wants a sign, he’ll be struck dumb. Korihor is struck dumb and then wishes he had admitted he did believe. Died among the Zoramites.
 
@@ -64,7 +65,7 @@ Alma learns of the pride of the Zoramites and wishes it weren’t so. Alma is si
 
   
 
-1 Kings 1
+### 1 Kings 1
 
 David gets very old. His son adonijah seeks to become king. Throws a party for himself and gets the support of some servants and priests. 
 
@@ -74,7 +75,7 @@ Bathsheba heard about this and consults David about a promise she remembers he m
 
   
 
-Jesus the Christ 19: Parables: The wheat and the tares
+### Jesus the Christ 19: Parables: The wheat and the tares
 
 Christ explains to the apostles after the parable, because they asked, that you can't just go through the field and get rid of the tares in the middle of the season, because you'll uproot the wheat also. So he says you have to wait until the end of the season, for the harvest, and then you can uproot everything, and separate the wheat from the tares, and bundle the tares for the fire, and put the wheat in the masters barn.
 
@@ -84,21 +85,22 @@ What does this teach me? I don't know I suppose. It's kind of an old skool "alwa
 
   
 
+## 2021-09-24
 [Sep 24, 2021 at 9:05 AM]
 
-Alma 26:1-26
+### Alma 26:1-26
 
 Ammon is talking about their missionary work and aaron rebukes him saying your joy is carrying you into boasting. Which was probably true. But the story was written by ammon. So it seems untrue. Haha! 
 
   
 
-2 Samuel 22-23
+### 2 Samuel 22-23
 
 Davis’s big song. Actually pretty good. The last words of David. Also pretty deep. About a king ruling in righteousness and fearing the Lord. Names are given of David’s top warriors and bodyguards. Interesting. Storm light archives almost seem inspired by these verses. A mighty warrior who wasn’t considered part of the thirty or the top three warriors but was still amazing and was made head of the kings bodyguard. 
 
   
 
-Jesus the Christ 19: the wheat and the rates. 
+### Jesus the Christ 19: the wheat and the rates. 
 
 The wheat is the good stuff. The rates are a noxious weed. We have the same problem in our lawn right now. And the reapers, the lords angels, are eager to harvest the wheat. But the lord tells them no. When it comes to harvesting this type of wheat (the souls of men and women), you have to demonstrate patience. And you have to let them grow together. Otherwise when you go to rip out the noxious weeds it will also uproot the wheat. In this case. You have to be careful to bundle up the rates and burn them in fire too early in the wheats life. 
 
@@ -109,16 +111,16 @@ What’s odd is, it’s obvious the lord considers some people now on the earth 
   
 
   
-
+## 2021-09-20
 [Sep 20, 2021 at 8:04 AM]
 
-Alma 25
+### Alma 25
 
 Mostly shows how Abinadi’s original prophecy made about the wicked king Noah and his priests have all come true. Hunted or burned by fire. Burning by fire because of beliefs became a common practice, at least among Lamanites(?).
 
   
 
-2 Samuel 18-21
+### 2 Samuel 18-21
 
 King David and his army fight against Absalom and his army in the forest of Ephraim. 20k men die. It says the first swallowed up many of them. Absoloms mule passes under a tree and his hair gets completely tangled in a branch and is left hanging there from the tree branch helpless. Joab finds out about it and goes and runs several so ears through him killing him. Then they return and king David mourns his sons Absalom’s death instead of celebrating the victory or mourning the death toll on his own men. 
 
@@ -131,12 +133,12 @@ Joab seeks to correct the king and tells him you should go out and encourage you
 Then there’s another rebellion from Sheba. And he tries to lead an army away. But joab is on it. And David sends joab to deal with the problem and they do. They end up pursuing Sheba all the way to this peaceful city Abel of wise people. A woman came out and talked with Joab and agreed to deliver Sheba in exchange for Joab to stop swinging the city. They threw Sheba’s head over the wall. And Joab returned to Jerusalem. 
 
   
-
+## 2021-09-03
 [Sep 3, 2021 at 10:08 AM]
 
   
 
-Alma 18:1-12
+### Alma 18:1-12
 
 King lamoni and servants convince themselves ammon is “the great spirit”. Then the king is astonished that ammon would continue following orders and prepare his horses and chariot for travel. King was astonished, wanted ammon to come talk to him. Ammon finished his work and then reported back. Noticed the kings countenance had chanted. So ammon turned back to walk away. 
 
@@ -150,17 +152,17 @@ Christ chooses not to see his family when they come to see him. James e talmage 
 
   
 
-2 Samuel 11-12
+### 2 Samuel 11-12
 
 David illegitimately obtains the wife of Uriah the Hittite named bathsheba. She bares a son who dies. She bares another son who they name Solomon. 
 
   
 
   
-
+## 2021-08-31
 [Aug 31, 2021 at 8:46 AM]
 
-Alma 17. 
+### Alma 17. 
 
 Ammon and brothers depart. On missions. Ammon meets king Lamoni. Offered daughter to marry. Serves king by helping to watch his flocks. Flocks get scattered. Men cry for fear of execution as punishment. Ammon cuts off intruders arms with sword. Like some kind of super hero. 
 
@@ -170,21 +172,21 @@ Christ is teaching and this lady is like, “blessed be the breasts that suckled
 
   
 
-2 Samuel 8-10
+### 2 Samuel 8-10
 
 David pretty much is owning. He wins at whatever he does. Whatever army comes against him they defeat. The lord is with him. Constantly. So, David wants to give back to Jonathan’s family because he once made a promise to him. So he finds the little boy who had both his ankle broken when running with his mother away from some danger. And treats him as a son. Has a servant serve him and his family the rest of his life there. 
 
   
-
+## 2021-08-30
 [Aug 30, 2021 at 8:54 AM]
 
-Alma 16
+### Alma 16
 
 Ammonihah’s is destroyed in one day by invading aggressive Lamanites. Becomes land of desolation of Nehors. Alma military leader understand Gods will to rescue the captives taken. The devil is considered beaten this round. 
 
   
 
-2 Samuel 6-7
+### 2 Samuel 6-7
 
 David brings the ark to the city of David. Story of Uzzah trying to stabilize the ark as it is falling because of the oxen. He touches the ark. And he struck dead 💀 . To me Uzzah seems innocent. Like “oh I’m just trying to help… ZAP”. I mean isn’t it the lord who says “do many things of your own free will and choice and bring to pass much righteousness”? Seems really inconsistent. But what do I know? I don’t know much. This whole story is a couple of lines in an incredibly old book. I don’t have all the facts. 
 
@@ -204,13 +206,13 @@ Then this last solemn line “Therefore Michal the daughter of Saul had no child
 
 Then David wants to build a temple for the ark. And Nathan (which, where did Nathan come from? I have no idea 🤷) he says good idea whatever you do the lords with you, so…. Then Nathan has a dream and the lord says no you can’t build a temple. But I will establish you forever. And later David apparently tells Solomon (1 chronicles 22:8) that he was forbidden because of too much war and bloodshed he’d seen. “Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight.” Which is very very interesting. 
 
-  
+## 2021-08-28
 
 [Aug 28, 2021 at 7:27 AM]
 
   
 
-Alma 15
+### Alma 15
 
 Zeezrom is at sidom, Alma and amulek arrive at sidom, Zeezrom hears about it, and sends for them. Asked to be healed. They heal him. According to his faith. He leaps out of bed. Harrowed up no more. Harrow means vex.
 
@@ -235,12 +237,12 @@ The Lord is with David at this point still. A weird battle takes place where 12 
 Then david goes and conquers Jerusalem by the water shaft and jebusites blind and lame people up there? Calls it the city of David and Zion.
 
   
-
+## 2021-08-26
 [Aug 26, 2021 at 7:23 AM]
 
   
 
-Alma 14
+### Alma 14
 
 The chief judge of the land had to have known who Alma was, because, didn’t Alma used to be chief judge? Like, not that long ago. But the chief judge apparently was in there slapping Alma too. Crazy. Foolish thing, to slap and mock a prophet. Don’t do it. 
 
@@ -250,7 +252,7 @@ My favorite lion, and the people saw Alma and Amulek walking out of the prison w
 
   
 
-2 Samuel 1
+### 2 Samuel 1
 
 David heard about sauls death from a boy, an amalekite, who apparently helped Saul Kill himself? Saul wasn’t quite dead? So Saul saw the boy and asked him to help kill him. And the boy could see, yeah you’re not going to make it. So he did. And then took his bracelet and something else, and came and told David. David rent his clothes, and the other men also did, and then they killed the messenger, because he claimed to have killed Saul, the Lords anointed. Wild. Then David writes a song about it. 
 
@@ -269,12 +271,12 @@ It’s also interesting to note that right here, Christ also uses the concept of
   
 
   
-
+## 2021-08-24
 [Aug 24, 2021 at 8:11 AM]
 
   
 
-1 Sam. 30-31
+### 1 Sam. 30-31
 
 David intercepts the raiding party on advise from an Amalekites abandoned Egyptian slave. Gave him tips. They defeat that raiding party and get their plunder back. David shared it with the men who came with him and the men who stayed behind. Unity. 
 
@@ -288,7 +290,7 @@ men of Sauls hometown go out and reclaim his body and burn and bury it by a fig 
 
   
 
-Alma 13:17-end
+### Alma 13:17-end
 
 Alma encourages repentance before it’s too late. Basically. 
 
@@ -305,14 +307,16 @@ Herodias’ daughter was named Salome. And she was just as nasty as her mother. 
 But I guess the point is the Lord could have easily delivered John. Send an angel. Speak a word and the locks to the prison open and the guards fall asleep. You know? He could have easily freed John. But that wasn’t the point. Sometimes the Lord suffers it, so that the blood of the innocent cry from the dust to the condemnation of the perpetrator. 
 
   
-
+## 2021-08-23
 [Aug 23, 2021 at 7:00 AM]
 
-Alma 12:1-17 Alma is talking to Zeezrom and basically telling him why he won’t fully get what he is saying. 
+### Alma 12:1-17 
+Alma is talking to Zeezrom and basically telling him why he won’t fully get what he is saying. 
 
   
 
-1 Samuel 29 and 30:1-20 David gets ratted out by phillistine leaders? And goes over to Israel’s side. Achish leading Israel in this battle tells David he has no quarrel with him and to go back to get his people. David goes back to find that the Phillistines plundered his camp while he was gone. Stole his supplies and wives.
+### 1 Samuel 29 and 30:1-20 
+David gets ratted out by phillistine leaders? And goes over to Israel’s side. Achish leading Israel in this battle tells David he has no quarrel with him and to go back to get his people. David goes back to find that the Phillistines plundered his camp while he was gone. Stole his supplies and wives.
 
   
 

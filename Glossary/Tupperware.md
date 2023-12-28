@@ -1,9 +1,9 @@
 # Tupperware
 #symbol 
 
-Earlier I thought of this analogy to better describe my frustration with symbols. Then the Lord taught me, "what you just thought of was a symbol, which helped you better understand your own feelings."" And I was like, "Oh!"
+Earlier I thought of this analogy to better describe my frustration with symbols. Then the Lord taught me, "what you just thought of was a symbol, which helped you better understand your own feelings." And I was like, "Oh!"
 
-Symbols are an over-simplification. You have to first understand the doctrine to then be able to understand the symbol. But when you see the symbol, it just seems like an over-simplification of the doctrine. So then what's the point? 
+Symbols are a simplification. You have to first understand the doctrine to then be able to understand the symbol. But when you see the symbol, it just seems like an over-simplification of the doctrine. So then what's the point? 
 
 Symbology is like a man cooking spaghetti, and he cooks too much, then he must fit it all into a food-storage container. But the container quickly fills to capacity, and he is left still with excess spaghetti. What does he do?
 

@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Location-Notes/Temple Sessions.md",
-                "mode": "source",
+                "file": "Glossary/Altar.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Location-Notes/Temple Sessions.md"
+                "file": "Glossary/Altar.md"
               }
             }
           }
@@ -163,23 +163,22 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "912734354032b376",
   "lastOpenFiles": [
-    "Glossary/Symbols.md",
+    "Desk/Basecamp.md",
+    "Desk/Study Recap.md",
     "Location-Notes/Temple Sessions.md",
+    "Glossary/Symbols.md",
     "Glossary/Tupperware.md",
     "Glossary/Family Tree.md",
     "Glossary/Bar of God.md",
-    "Desk/Basecamp.md",
     "Reference-Material/Pleading Bar of God.md",
     "Reference-Material/The Pleading Bar of God.pdf",
     "Glossary/Dressed In White.md",
     "Glossary/Priesthood.md",
-    "Desk/Study Recap.md",
     "Pleading Bar of God.pdf.md",
     "Quotebook/Self-Reliance, President Romney.md",
     "Glossary/Agency.md",
