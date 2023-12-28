@@ -39,15 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference-Material/Pleading Bar of God.md",
+                "file": "Glossary/Symbols.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "912734354032b376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Location-Notes/Temple Sessions.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference-Material/Pleading Bar of God.md"
+                "file": "Location-Notes/Temple Sessions.md"
               }
             }
           }
@@ -154,19 +167,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b9911c02283c230d",
+  "active": "912734354032b376",
   "lastOpenFiles": [
-    "Reference-Material/The Pleading Bar of God.pdf",
-    "Reference-Material/Pleading Bar of God.md",
-    "Desk/Basecamp.md",
+    "Glossary/Symbols.md",
+    "Location-Notes/Temple Sessions.md",
+    "Glossary/Tupperware.md",
+    "Glossary/Family Tree.md",
     "Glossary/Bar of God.md",
+    "Desk/Basecamp.md",
+    "Reference-Material/Pleading Bar of God.md",
+    "Reference-Material/The Pleading Bar of God.pdf",
     "Glossary/Dressed In White.md",
     "Glossary/Priesthood.md",
     "Desk/Study Recap.md",
     "Pleading Bar of God.pdf.md",
     "Quotebook/Self-Reliance, President Romney.md",
     "Glossary/Agency.md",
-    "Glossary/Symbols.md",
     "Glossary/Return and Report.md",
     "Glossary/Purity.md",
     "Calling-Notes/EQ Sec. Hand Off.md",
@@ -174,15 +190,13 @@
     "Journal/2023-05-14 - Things are bad.md",
     "Journal/2023-12-03 - Jesus is the answer.md",
     "Lessons-Taught/Not as the World Giveth.md",
-    "Meeting-Notes/EQ Presidency Meeting.md",
-    "Meeting-Notes/General Conference.md",
-    "Meeting-Notes/Sacrament Meeting.md",
-    "Meeting-Notes/Stake Conference.md",
+    "Location-Notes/EQ Presidency Meeting.md",
+    "Location-Notes/General Conference.md",
+    "Location-Notes/Sacrament Meeting.md",
+    "Location-Notes/Stake Conference.md",
     "Symbols",
     "Reference-Material/Mormon Doctrine.md",
     "Reference-Material/True to the Faith.md",
-    "Quotebook/You’ll Miss Raising Children.md",
-    "Quotebook/Parenting, Brene Brown.md",
     "Symbols",
     "Reference Material/True to the Faith.mdx",
     "Reference Material/Mormon Doctrine.mdx",

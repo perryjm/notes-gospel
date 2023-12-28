@@ -12,6 +12,7 @@ Mentioned only in the Book of Mormon, the bar of God is referenced as a place on
 - Barrister - "a counsel admitted to plead at the bar and undertake the public trial of causes in an English superior court" -MW
 
 ### Hinderances
+- legal term with many other uses. For example, an establishment serving alcohol. 
 
 ### Scriptural Examples
 - Jacob 6:9

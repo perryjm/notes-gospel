@@ -13,8 +13,10 @@
 ***
 
 ##### TODO
-- Create a 'guide to repentance' note
-- [Return and Report](/Glossary/Return%20and%20Report.md) still needs some work.
+- [ ] Create a 'guide to repentance' note
+- [ ] Finish [Bar of God](/Glossary/Bar%20of%20God.md)
+- [ ] Import best of Gospel library notes
+- [ ] Import best of Paper mission journal entries
 
 ##### Interesting Places
 - [Mormon Studies Commons](https://network.bepress.com/arts-and-humanities/religion/mormon-studies)

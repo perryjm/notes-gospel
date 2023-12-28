@@ -10,5 +10,29 @@
   ],
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "Reference-Material",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "mobileToolbarCommands": [
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:paste",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:attach-file",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:cut",
+    "editor:copy",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-checklist-status",
+    "editor:toggle-blockquote",
+    "obsidian-table-generator:create-table-genertator",
+    "editor:configure-toolbar"
+  ]
 }
