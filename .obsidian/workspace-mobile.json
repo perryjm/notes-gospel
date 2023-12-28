@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Family Unit.md",
+                "file": "Location-Notes/Temple Sessions.md",
                 "mode": "preview",
-                "backlinks": false,
+                "backlinks": true,
                 "source": true
               }
             }
@@ -82,14 +82,6 @@
           "type": "bookmarks",
           "state": {}
         }
-      },
-      {
-        "id": "735e99e11de3ec08",
-        "type": "leaf",
-        "state": {
-          "type": "recent-files",
-          "state": {}
-        }
       }
     ],
     "currentTab": 0
@@ -104,7 +96,24 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Glossary/Family Unit.md"
+            "file": "Location-Notes/Temple Sessions.md"
+          }
+        }
+      },
+      {
+        "id": "5e66f84f9cec2b0e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Location-Notes/Temple Sessions.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
         }
       }
@@ -117,28 +126,27 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "2a7c1387b1f40cda",
   "lastOpenFiles": [
-    "Glossary/Altar.md",
+    "Location-Notes/Sacrament Meeting.md",
+    "Location-Notes/Temple Sessions.md",
+    "Desk/Basecamp.md",
+    "Desk/Study Recap.md",
     "Glossary/Family Unit.md",
+    "Glossary/Altar.md",
     "Reference-Material/Pasted image 20231227234143.jpg",
     "Glossary/Dressed In White.md",
     "Glossary/Bar of God.md",
-    "Desk/Basecamp.md",
     "Glossary/Symbols.md",
     "Glossary/Return and Report.md",
     "Glossary/Tupperware.md",
-    "Desk/Study Recap.md",
-    "Location-Notes/Temple Sessions.md",
     "Glossary/Family Tree.md",
     "Location-Notes/Stake Conference.md",
     "Location-Notes/EQ Presidency Meeting.md",
     "Location-Notes/General Conference.md",
-    "Location-Notes/Sacrament Meeting.md",
     "Location-Notes",
     "Reference-Material/The Pleading Bar of God.pdf",
     "Reference-Material/Pleading Bar of God.md",
