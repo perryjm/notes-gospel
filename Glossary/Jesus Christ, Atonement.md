@@ -19,3 +19,5 @@ This is a decent model for understanding the Atonement of Jesus Christ. But as w
 	- Human life is so deterministic they know exactly how many sins I will commit?
 	- What about other planets as some theories suggest the Savior is Redeemer to those planets as well?
 - Gives rise 
+
+This largely borrows from Cleon Skousen’s “the meaning of the atonement”.

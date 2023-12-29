@@ -1,6 +1,6 @@
 # Scripture Bookmarks
 
-### [BOM](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p27#p27)
+### [BOM](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng)
 
 ### [Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2023/10/27phillips?lang=eng&id=p7#p7)
 
@@ -27,7 +27,7 @@
 	- [ ] Chandelier in sealing room
 	- [ ] Cap for men, Veil for women
 	- [ ] BCIE are single player mode, SP SS are co-op multi-player
-	- [ ] Kneeling at the Altar
+	- [x] Kneeling at the Altar
 
 ***
 ##### Interesting Places

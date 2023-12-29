@@ -8,25 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a7c1387b1f40cda",
+            "id": "04c8b5e579380394",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Location-Notes/Temple Sessions.md",
+                "file": "Reference-Material/Meaning of the Atonement.md",
                 "mode": "preview",
-                "backlinks": true,
+                "backlinks": false,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "a513c5596fd84679",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Reference-Material/The Pleading Bar of God.pdf"
               }
             }
           }
@@ -96,7 +86,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Location-Notes/Temple Sessions.md"
+            "file": "Reference-Material/Meaning of the Atonement.md"
           }
         }
       },
@@ -106,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Location-Notes/Temple Sessions.md",
+            "file": "Reference-Material/Meaning of the Atonement.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,11 +119,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a7c1387b1f40cda",
+  "active": "04c8b5e579380394",
   "lastOpenFiles": [
-    "Location-Notes/Sacrament Meeting.md",
-    "Location-Notes/Temple Sessions.md",
+    "Glossary/Jesus Christ, Atonement.md",
+    "Reference-Material/Meaning of the Atonement.md",
     "Desk/Basecamp.md",
+    "Glossary/Repentance.md",
+    "Glossary/Faith.md",
+    "Glossary/Holy Ghost.md",
+    "Glossary/Priesthood.md",
+    "Location-Notes/Temple Sessions.md",
+    "Glossary/River.md",
+    "Reference-Material/The Spirit World, Our Next Home.md",
+    "Glossary/Corrupt Judges.md",
+    "Glossary/Spirit World.md",
+    "Personal-Blessings/Father's Blessings.md",
+    "Quotebook/Friends with the World, Lorenzo Snow.md",
+    "Location-Notes/Sacrament Meeting.md",
     "Desk/Study Recap.md",
     "Glossary/Family Unit.md",
     "Glossary/Altar.md",
@@ -146,22 +148,10 @@
     "Glossary/Family Tree.md",
     "Location-Notes/Stake Conference.md",
     "Location-Notes/EQ Presidency Meeting.md",
-    "Location-Notes/General Conference.md",
     "Location-Notes",
     "Reference-Material/The Pleading Bar of God.pdf",
-    "Reference-Material/Pleading Bar of God.md",
-    "Glossary/Priesthood.md",
-    "Personal Blessings/Patriarchal Blessing.md",
-    "Personal-Blessings/Patriarchal Blessing.md",
     "Personal-Blessings",
-    "Lessons-Taught/Not as the World Giveth.md",
     "Lessons-Taught",
-    "Glossary/Agency.md",
-    "Meeting-Notes/EQ Presidency Meeting.md",
-    "Reference Material/Mormon Doctrine.md",
-    "Journal/2023-12-03 - Jesus is the answer.md",
-    "Journal/2023-04-20 - Impressions at work.md",
-    "Journal/2023-05-14 - Things are bad.md",
     "Journal",
     "Desk",
     "Reference-Material",
