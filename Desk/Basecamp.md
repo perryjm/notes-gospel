@@ -1,4 +1,4 @@
-# Daily Reading
+# Scripture Bookmarks
 
 ### [BOM](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/11?lang=eng&id=p27#p27)
 
@@ -6,14 +6,19 @@
 
 #### [Jesus the Christ](https://www.churchofjesuschrist.org/study/manual/jesus-the-christ/chapter-27?id=title4,p9&lang=eng#title4)
 
-#### [✍️ Study Recap](Study%20Recap.md)
+##### [Lydia Stories](https://www.churchofjesuschrist.org/study/manual/book-of-mormon-stories-2024/03-return-to-jerusalem?lang=eng)
+
+[Study Summary Notes](Study%20Recap.md)
+[Temple Session Notes](/Location-Notes/Temple%20Sessions.md)
+[Sacrament Meeting Notes](/Location-Notes/Sacrament%20Meeting.md)
+
 
 ***
 
 ##### TODO
 - [ ] Create a 'guide to repentance' note
 - [ ] Finish [Bar of God](/Glossary/Bar%20of%20God.md)
-- [ ] Import best of Gospel library notes
+- [ ] Import best of [Gospel library notes](https://www.churchofjesuschrist.org/notes)
 - [ ] Import best of Paper mission journal entries
 - [ ] Symbology
 	- [ ] [Tupperware](/Glossary/Tupperware.md)

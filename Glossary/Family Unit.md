@@ -5,7 +5,7 @@
 
 [Family Proclamation](https://www.churchofjesuschrist.org/study/scriptures/the-family-a-proclamation-to-the-world/the-family-a-proclamation-to-the-world?lang=eng)
 
-The family unit is the fundamental unit of society. The key building block for all successful societies. Currently under attack from every possible angle. 
+The family unit is the fundamental unit of society. The key building block for all successful societies. Currently under attack from every possible angle. It consists of a father, mother, and children.
 
 Many movements tout high ideals. They claim to be pro-women, pro-animal, pro-earth, pro-inclusion, or pro-choice, but ultimately are anti-family. 
 
