@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desk/Basecamp.md",
-                "mode": "preview",
+                "file": "Glossary/Tree.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desk/Basecamp.md",
+                "file": "Glossary/Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desk/Basecamp.md"
+                "file": "Glossary/Tree.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "3b6a195607ed89ef",
   "lastOpenFiles": [
-    "Glossary/Tree.md",
     "Desk/Basecamp.md",
+    "Glossary/Tree.md",
     "Reference-Material/Pasted image 20231230012408.sm.jpg",
     "Reference-Material/Pasted image 20231230012408.jpg",
     "Reference-Material/tree.jpg",

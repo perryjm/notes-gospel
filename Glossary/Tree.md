@@ -26,6 +26,7 @@
 - [Spiritual Whirlwinds](https://www.churchofjesuschrist.org/study/general-conference/2014/04/spiritual-whirlwinds?lang=eng&id=p10-p11#p10) by Elder Neil L. Anderson. Tree's withstand wind.
 	- Great [Video](https://www.youtube.com/watch?v=DzWXSz9hlxw) from the same talk.
 - [Small and Simple Things](https://www.churchofjesuschrist.org/study/general-conference/2018/04/small-and-simple-things?lang=eng&id=p14#p14) by Elder Oaks. Tree's roots crack and lift concrete sidewalk by slow consistent growth over time.
+- [Olive Tree](https://www.churchofjesuschrist.org/study/scriptures/gs/olive-tree?lang=eng) Guide to the scriptures.
 
 ## Rant On Tree's and Symbology
 You can’t look at a tree and suddenly understand the plan of salvation, but you might notice the branches of a tree and see that it’s *like* a pedigree chart and have a deeper understanding of the plan of salvation. The root of the tree with the seed is God.

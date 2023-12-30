@@ -21,6 +21,7 @@
 - [ ] Import best of Paper mission journal entries
 - [ ] Symbology
 	- [ ] [Tupperware](/Glossary/Tupperware.md)
+	- [ ] [Tree](/Glossary/Tree.md)
 	- [ ] Foliage decor in temples 
 	- [ ] Chandelier in sealing room
 	- [ ] Cap for men, Veil for women
