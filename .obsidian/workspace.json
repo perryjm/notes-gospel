@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Humility.md",
-                "mode": "source",
+                "file": "Desk/Basecamp.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#principle",
+                "query": "Tree.md",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c34ba8ed8bdc292e",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Humility.md",
+                "file": "Desk/Basecamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Humility.md"
+                "file": "Desk/Basecamp.md"
               }
             }
           }
@@ -148,20 +149,28 @@
   },
   "active": "3b6a195607ed89ef",
   "lastOpenFiles": [
-    "Glossary/Obedience.md",
+    "Glossary/Tree.md",
+    "Desk/Basecamp.md",
+    "Reference-Material/Pasted image 20231230012408.sm.jpg",
+    "Reference-Material/Pasted image 20231230012408.jpg",
+    "Reference-Material/tree.jpg",
+    "Reference-Material/Pasted image 20231230012408.png",
+    "Reference-Material/Pasted image 20231230012001.png",
     "Glossary/Humility.md",
-    "Glossary/Jesus Christ, Atonement.md",
-    "Glossary/Family Unit.md",
+    "Glossary/Humility 2.md",
+    "Glossary/Bar of God.md",
     "Glossary/Holy Ghost.md",
-    "Glossary/Family Tree.md",
+    "Glossary/Jesus Christ, Atonement.md",
+    "Glossary/Obedience 2.md",
+    "Glossary/Obedience.md",
+    "Lessons-Taught/1-Utah Area Ministering.md",
+    "Glossary/Family Unit.md",
     "Glossary/Faith.md",
-    "Glossary/Humility.md",
     "Personal-Blessings/Father's Blessings.md",
     "Glossary/Corrupt Judges.md",
     "Glossary/Spirit World.md",
     "Quotebook/You’ll Miss Raising Children.md",
     "Reference-Material/The Spirit World, Our Next Home.md",
-    "Desk/Basecamp.md",
     "Quotebook/Friends with the World, Lorenzo Snow.md",
     "Quotebook/Covenant Keeper, President Nelson.md",
     "Quotebook/AI, President Monson.md",
@@ -170,11 +179,8 @@
     "Glossary/River.md",
     "Reference-Material/The Pleading Bar of God.pdf",
     "Glossary/Tupperware.md",
-    "Glossary/Bar of God.md",
     "Reference-Material/Pasted image 20231227234143.jpg",
     "Reference-Material/Pleading Bar of God.md",
-    "Glossary/Altar.md",
-    "Glossary/Dressed In White.md",
     "Journal",
     "Reference-Material",
     "Lessons-Taught",

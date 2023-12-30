@@ -16,18 +16,17 @@
 ***
 
 ##### TODO
-- [ ] Create a 'guide to repentance' note
-- [ ] Finish [Bar of God](/Glossary/Bar%20of%20God.md)
+- [ ] Prep Sunday [lesson](Lessons-Taught/1-Utah%20Area%20Ministering.md) 
 - [ ] Import best of [Gospel library notes](https://www.churchofjesuschrist.org/notes)
 - [ ] Import best of Paper mission journal entries
 - [ ] Symbology
 	- [ ] [Tupperware](/Glossary/Tupperware.md)
-	- [ ] [Family Tree](/Glossary/Family%20Tree.md)
 	- [ ] Foliage decor in temples 
 	- [ ] Chandelier in sealing room
 	- [ ] Cap for men, Veil for women
-	- [ ] BCIE are single player mode, SP SS are co-op multi-player
-	- [x] Kneeling at the Altar
+	- [ ] BCIE are single player mode, SP SS are co-op multi-player party. A "sealing party."
+	- [ ] Fruit
+	- [ ] Seeds
 
 ***
 ##### Interesting Places

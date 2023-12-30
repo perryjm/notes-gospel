@@ -4,7 +4,7 @@
 
 Symbology, symbols
 
-A gospel symbol can be an object, event, action, or teaching that represents a spiritual truth. All things are made to [bear record](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p63#p63) of Jesus Christ. All things are [spiritual](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-student-manual-2017/chapter-12-doctrine-and-covenants-29?lang=eng&id=p35#p35) to the Lord. Temporal is in the likeness of the spirit and the spirit is in the likeness of the [temporal](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=eng&id=2#p2). 
+A gospel symbol can be an object, event, action, or teaching that represents a spiritual truth. All things are made to bear record of Jesus Christ ([Moses 6:63](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p63#p63)). All things are spiritual to the Lord ([D&C 29:31-35](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-student-manual-2017/chapter-12-doctrine-and-covenants-29?lang=eng&id=p35#p35)). Temporal is in the likeness of the spirit and the spirit is in the likeness of the temporal ([D&C 77:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=eng&id=2#p2)).
 
 Symbols are analogies. They are comparisons. They are metaphors. They are physical and visual teaching tools. They are an aid or enhancement in the teaching/learning process.
 
