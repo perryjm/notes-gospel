@@ -14,11 +14,11 @@
   "mobileToolbarCommands": [
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
-    "editor:paste",
     "editor:set-heading",
     "editor:toggle-bold",
     "editor:toggle-italics",
     "editor:insert-wikilink",
+    "editor:paste",
     "editor:insert-link",
     "editor:attach-file",
     "editor:unindent-list",
@@ -32,7 +32,6 @@
     "editor:toggle-code",
     "editor:toggle-checklist-status",
     "editor:toggle-blockquote",
-    "obsidian-table-generator:create-table-genertator",
     "editor:configure-toolbar"
   ]
 }

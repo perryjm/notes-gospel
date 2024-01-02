@@ -4,13 +4,11 @@
 
 Symbology, symbols
 
-A gospel symbol can be an object, event, action, or teaching that represents a spiritual truth. All things are made to bear record of Jesus Christ ([Moses 6:63](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p63#p63)). All things are spiritual to the Lord ([D&C 29:31-35](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-student-manual-2017/chapter-12-doctrine-and-covenants-29?lang=eng&id=p35#p35)). Temporal is in the likeness of the spirit and the spirit is in the likeness of the temporal ([D&C 77:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=eng&id=2#p2)).
+A gospel symbol can be an object, event, action, or teaching that represents a spiritual truth ([source](https://www.churchofjesuschrist.org/study/ensign/2007/02/why-symbols)). All things are made to bear record of Jesus Christ ([Moses 6:63](https://www.churchofjesuschrist.org/study/scriptures/pgp/moses/6?lang=eng&id=p63#p63)). All things are spiritual to the Lord ([D&C 29:31-35](https://www.churchofjesuschrist.org/study/manual/doctrine-and-covenants-student-manual-2017/chapter-12-doctrine-and-covenants-29?lang=eng&id=p35#p35)). Temporal is in the likeness of the spirit and the spirit is in the likeness of the temporal ([D&C 77:2](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=eng&id=2#p2)).
 
 Symbols are analogies. They are comparisons. They are metaphors. They are physical and visual teaching tools. They are an aid or enhancement in the teaching/learning process.
 
 They are not a replacement for foundational understanding of doctrine.
-
-[Source](https://www.churchofjesuschrist.org/study/ensign/2007/02/why-symbols) - and GREAT article
 
 ## Benefits
 - Universal language - no need for translation
@@ -29,3 +27,8 @@ They are not a replacement for foundational understanding of doctrine.
 3. Notice new and richer details about the symbol due to its real world counterpart
 4. Take those new observations back to the scriptures for further verification and enhanced learning
 5. Repeat steps 1-4
+
+## Quotes
+- [Great article in still digesting](https://www.churchofjesuschrist.org/study/ensign/2007/02/why-symbols)
+- to “fulfil all righteousness” (2 Nephi 31:5–6)
+- “Righteousness has, I suppose, come to have several meanings, but that to which I refer and believe the prophet was describing is that which is “acting in accord with divine _. . ._ law” (_Merriam-Webster’s Dictionary_).” Cecil C. Samuelson. [To Fulfill All Righteousness](https://speeches.byu.edu/talks/cecil-o-samuelson/fulfill-righteousness/).

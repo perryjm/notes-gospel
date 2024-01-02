@@ -2,7 +2,7 @@
 #corruption
 #judge 
 
-"Corrupt judges seek to incite the people against Nephi—Abraham, Moses, Zenos, Zenock, Ezias, Isaiah, Jeremiah, Lehi, and Nephi all testified of Christ—By inspiration Nephi announces the murder of the chief judge. About 23–21 B.C." [Hel. 8 - Chapter Heading](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/8?id=study_summary1&lang=eng#study_summary1)
+"Corrupt judges seek to incite the people against Nephi" [Hel. 8 - Chapter Heading](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/8?id=study_summary1&lang=eng#study_summary1)
 
 ## Thoughts
 [Feb 15, 2017]

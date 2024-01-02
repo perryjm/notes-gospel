@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Tree.md",
+                "file": "Reference-Material/Mormon Doctrine.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "acf370001d50ad21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary/Righteousness.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Glossary/Tree.md"
+            "file": "Glossary/Righteousness.md"
           }
         }
       },
@@ -96,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Glossary/Tree.md",
+            "file": "Glossary/Righteousness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,36 +133,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04c8b5e579380394",
+  "active": "acf370001d50ad21",
   "lastOpenFiles": [
-    "stuff",
-    "Desk/Basecamp.md",
-    "Reference-Material/tree.jpg",
-    "Glossary/Humility.md",
     "Glossary/Obedience.md",
-    "Glossary/Symbols.md",
+    "Reference-Material/Mormon Doctrine.md",
+    "Glossary/Dressed In White.md",
     "Glossary/Bar of God.md",
-    "Lessons-Taught/1-Utah Area Ministering.md",
-    "Reference-Material/Meaning of the Atonement.md",
+    "Glossary/Priestcraft.md",
+    "Glossary/Spirit World.md",
+    "Desk/Basecamp.md",
+    "Glossary/Purity.md",
+    "Glossary/Righteousness.md",
+    "Glossary/Symbols.md",
+    "Glossary/Humility.md",
+    "Glossary/Ministering.md",
+    "Reference-Material/IMG_8193.png",
+    "Glossary/Agency.md",
     "Glossary/Jesus Christ, Atonement.md",
-    "Glossary/Repentance.md",
+    "Glossary/Tree.md",
+    "Glossary/Altar.md",
+    "Glossary/Corrupt Judges.md",
     "Glossary/Faith.md",
+    "Lessons-Taught/1-Utah Area Ministering.md",
+    "stuff",
+    "Reference-Material/tree.jpg",
+    "Reference-Material/Meaning of the Atonement.md",
+    "Glossary/Repentance.md",
     "Glossary/Holy Ghost.md",
     "Glossary/Priesthood.md",
     "Location-Notes/Temple Sessions.md",
     "Glossary/River.md",
     "Reference-Material/The Spirit World, Our Next Home.md",
-    "Glossary/Corrupt Judges.md",
-    "Glossary/Spirit World.md",
-    "Personal-Blessings/Father's Blessings.md",
-    "Quotebook/Friends with the World, Lorenzo Snow.md",
-    "Location-Notes/Sacrament Meeting.md",
-    "Desk/Study Recap.md",
-    "Glossary/Family Unit.md",
-    "Glossary/Altar.md",
     "Reference-Material/Pasted image 20231227234143.jpg",
-    "Glossary/Dressed In White.md",
-    "Glossary/Return and Report.md",
     "Location-Notes",
     "Reference-Material/The Pleading Bar of God.pdf",
     "Personal-Blessings",
@@ -158,14 +174,12 @@
     "Reference-Material",
     "Meeting-Notes",
     "Reference Material/The Pleading Bar of God.pdf",
-    "Study Recap",
     "Apple Notes Attachments/7F203374-E222-42FE-BD6D-7709F129F165.jpg",
     "Apple Notes Attachments/79003B9A-DACF-4151-81CD-16CC4EF638AC.jpg",
     "Apple Notes Attachments/ADD52800-C7A1-4D97-819B-AC471C846CFC.jpg",
     "Apple Notes Attachments/79995CAD-4FF2-4489-B2A4-F557C36E04EE.jpg",
     "Apple Notes Attachments/B327557F-CD8E-47F6-A7B6-699237C64A2C.jpg",
     "Apple Notes Attachments/77351E74-4E90-4CB6-91D2-75A0885EDB06.jpg",
-    "Apple Notes Attachments/8AD9793F-B41D-4AA8-9BBC-08FE25B2B011.jpg",
-    "Apple Notes Attachments/AE6CC82B-54B5-4C0D-88A3-32FB4F03945B.jpg"
+    "Apple Notes Attachments/8AD9793F-B41D-4AA8-9BBC-08FE25B2B011.jpg"
   ]
 }
