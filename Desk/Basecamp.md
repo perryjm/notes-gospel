@@ -1,6 +1,6 @@
 # Scripture Bookmarks
 
-### [BOM](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/12?lang=eng&id=13#p13)
+### [BOM](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng)
 
 ### [Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2023/10/27phillips?lang=eng&id=p7#p7)
 

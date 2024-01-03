@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Righteousness.md",
+                "file": "Desk/Basecamp.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -100,7 +100,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Glossary/Righteousness.md"
+            "file": "Desk/Basecamp.md"
           }
         }
       },
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Glossary/Righteousness.md",
+            "file": "Desk/Basecamp.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,17 +133,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acf370001d50ad21",
+  "active": "33dc4deb8e58dd6f",
   "lastOpenFiles": [
-    "Glossary/Obedience.md",
+    "Glossary/Flesh and Blood.md",
     "Reference-Material/Mormon Doctrine.md",
+    "Glossary/Evolution.md",
+    "Desk/Basecamp.md",
+    "Glossary/Righteousness.md",
+    "Glossary/Obedience.md",
     "Glossary/Dressed In White.md",
     "Glossary/Bar of God.md",
     "Glossary/Priestcraft.md",
     "Glossary/Spirit World.md",
-    "Desk/Basecamp.md",
     "Glossary/Purity.md",
-    "Glossary/Righteousness.md",
     "Glossary/Symbols.md",
     "Glossary/Humility.md",
     "Glossary/Ministering.md",
@@ -162,8 +164,6 @@
     "Glossary/Holy Ghost.md",
     "Glossary/Priesthood.md",
     "Location-Notes/Temple Sessions.md",
-    "Glossary/River.md",
-    "Reference-Material/The Spirit World, Our Next Home.md",
     "Reference-Material/Pasted image 20231227234143.jpg",
     "Location-Notes",
     "Reference-Material/The Pleading Bar of God.pdf",

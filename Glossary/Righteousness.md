@@ -1,5 +1,5 @@
 # Righteousness
-It’s the product of prolonged obedience over time.
+It’s the product of continuous obedience over time.
 
 ## Quotes
 - “The word _righteousness_ is a most interesting and unique word. It is an umbrella word that spreads out and covers all the attributes of God. A person, then, who is righteous is Godly or Godlike.” [Elder Bradford. Oct 1999. Righteousness.](https://www.churchofjesuschrist.org/study/general-conference/1999/10/righteousness?lang=eng#p14)
