@@ -16,7 +16,7 @@
 ***
 
 ##### TODO
-- [ ] Prep Sunday [lesson](Lessons-Taught/1-Utah%20Area%20Ministering.md) 
+- [x] Prep Sunday [lesson](Lessons-Taught/1-Utah%20Area%20Ministering.md) 
 - [ ] Import best of [Gospel library notes](https://www.churchofjesuschrist.org/notes)
 - [ ] Import best of Paper mission journal entries
 - [ ] Symbology
