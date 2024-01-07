@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Stripling Warriors.md",
-                "mode": "preview",
+                "file": "Glossary/Evolution.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "2c335b01b26e032a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Parenting.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d6f2958cd9e1fbab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary/Stripling Warriors.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Stripling Warriors.md",
+                "file": "Glossary/Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Stripling Warriors.md"
+                "file": "Glossary/Evolution.md"
               }
             }
           }
@@ -173,13 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6f2958cd9e1fbab",
+  "active": "2bf51f6abd20e781",
   "lastOpenFiles": [
-    "Glossary/Parenting.md",
-    "Glossary/Stripling Warriors.md",
-    "Glossary/Warrior.md",
-    "Desk/Basecamp.md",
     "Glossary/Tree.md",
+    "Glossary/David.md",
+    "Glossary/Stripling Warriors.md",
+    "Glossary/Parenting.md",
+    "Glossary/Priestcraft.md",
+    "Reference-Material/IMG_8193.png",
+    "Glossary/Flesh and Blood.md",
+    "Glossary/Warrior.md",
+    "Glossary/Evolution.md",
+    "Glossary/Righteousness.md",
+    "Glossary/Ministering.md",
+    "Desk/Basecamp.md",
     "Reference-Material/Pasted image 20231230012408.sm.jpg",
     "Reference-Material/Pasted image 20231230012408.jpg",
     "Reference-Material/tree.jpg",
@@ -200,12 +180,6 @@
     "Glossary/Spirit World.md",
     "Quotebook/You’ll Miss Raising Children.md",
     "Reference-Material/The Spirit World, Our Next Home.md",
-    "Quotebook/Friends with the World, Lorenzo Snow.md",
-    "Quotebook/Covenant Keeper, President Nelson.md",
-    "Quotebook/AI, President Monson.md",
-    "Quotebook/Joy from Acting on Truth, Oaks.md",
-    "Quotebook/Inspiration, President Nelson.md",
-    "Glossary/River.md",
     "Reference-Material/The Pleading Bar of God.pdf",
     "Reference-Material/Pasted image 20231227234143.jpg",
     "Journal",

@@ -2,7 +2,7 @@
 
 ### [BOM](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng)
 
-### [Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2023/10/27phillips?lang=eng&id=p7#p7)
+### [Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2023/10/28rasband?lang=eng)
 
 #### [Jesus the Christ](https://www.churchofjesuschrist.org/study/manual/jesus-the-christ/chapter-27?id=title4,p9&lang=eng#title4)
 

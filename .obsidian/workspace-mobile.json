@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Stripling Warriors.md",
+                "file": "Glossary/Evolution.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -121,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Glossary/Stripling Warriors.md"
+            "file": "Glossary/Evolution.md"
           }
         }
       },
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Glossary/Stripling Warriors.md",
+            "file": "Glossary/Evolution.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,14 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "572306c1ba90b528",
+  "active": "33dc4deb8e58dd6f",
   "lastOpenFiles": [
+    "Desk/Basecamp.md",
+    "Glossary/Symbols.md",
+    "Glossary/Stripling Warriors.md",
     "Glossary/Warrior.md",
     "Glossary/David.md",
-    "Glossary/Stripling Warriors.md",
     "Glossary/Parenting.md",
     "Location-Notes/Stake Conference.md",
-    "Desk/Basecamp.md",
     "Reference-Material/Mormon Doctrine.md",
     "Glossary/Flesh and Blood.md",
     "Glossary/Evolution.md",
@@ -172,7 +173,6 @@
     "Glossary/Priestcraft.md",
     "Glossary/Spirit World.md",
     "Glossary/Purity.md",
-    "Glossary/Symbols.md",
     "Glossary/Humility.md",
     "Glossary/Ministering.md",
     "Reference-Material/IMG_8193.png",
