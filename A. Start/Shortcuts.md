@@ -8,10 +8,10 @@
 
 ##### [Lydia Stories](https://www.churchofjesuschrist.org/study/manual/book-of-mormon-stories-2024/03-return-to-jerusalem?lang=eng)
 
-[Temple Session Notes](/Location-Notes/Temple%20Sessions.md)
+###### [Temple Session Notes](/Location-Notes/Temple%20Sessions.md)
 
-[Sacrament Meeting Notes](/Location-Notes/Sacrament%20Meeting.md)
+###### [Sacrament Meeting Notes](/Location-Notes/Sacrament%20Meeting.md)
 
-[Study Sessions](/Location-Notes/Study%20Sessions.md)
+###### [Study Sessions](/Location-Notes/Study%20Sessions.md)
 
 
