@@ -4,6 +4,8 @@
 
 ### [Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2023/10/28rasband?lang=eng)
 
+### [Come Follow Me](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/01?lang=eng)
+
 #### [Jesus the Christ](https://www.churchofjesuschrist.org/study/manual/jesus-the-christ/chapter-27?id=title4,p9&lang=eng#title4)
 
 ##### [Lydia Stories](https://www.churchofjesuschrist.org/study/manual/book-of-mormon-stories-2024/03-return-to-jerusalem?lang=eng)
