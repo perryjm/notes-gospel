@@ -1,5 +1,7 @@
 # Utah Area Ministering
 
+EQ Lesson, Fifth Sunday 12/31/2023
+
 Ryan: Here's the talk I think would be awesome to discuss. Focus on ministering in higher and holier ways. I hope the Quorum can see the simpleness that ministering really is. 
 
 Also here's some questions I thought be helpful. 

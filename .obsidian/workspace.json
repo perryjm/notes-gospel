@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d927b13987db838e",
+        "id": "5bf33dee598bc4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "3b6a195607ed89ef",
+            "id": "6af52782133c46a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Evolution.md",
-                "mode": "source",
+                "file": "Lessons-Taught/The Many Roles of the Holy Ghost as Seen in Scripture.md",
+                "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Evolution.md",
+                "file": "Lessons-Taught/The Many Roles of the Holy Ghost as Seen in Scripture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Evolution.md"
+                "file": "Lessons-Taught/The Many Roles of the Holy Ghost as Seen in Scripture.md"
               }
             }
           }
@@ -146,46 +146,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bf51f6abd20e781",
+  "active": "6af52782133c46a5",
   "lastOpenFiles": [
+    "Lessons-Taught/The Power of Spiritual Momentum by President Nelson.md",
+    "Lessons-Taught/The Many Roles of the Holy Ghost as Seen in Scripture.md",
+    "Lessons-Taught/But We Heeded Them Not by Elder Bender April 2022.md",
+    "Lessons-Taught/Daily Restoration by Uchtdorf. Oct. 2021.md",
+    "Lessons-Taught/The Peace Of Christ Abolishes Enmity by Elder Dale G. Renlund (Oct. 2021).md",
+    "Lessons-Taught/The Faith to Ask and Then to Act.md",
+    "Lessons-Taught/Make time for the lord.md",
+    "Lessons-Taught/The Savior’s Abiding Compassion Elder Soares. Oct 2021..md",
+    "Lessons-Taught/Utah Area Ministering.md",
+    "Lessons-Taught/The Need for a Church. Dallin H. Oaks. Oct 2021..md",
+    "Lessons-Taught/What we are learning and will never forget by President Nelson April 2021.md",
+    "Lessons-Taught/Not as the World Giveth.md",
+    "Personal-Blessings/Personal History.md",
+    "Location-Notes/Sacrament Meeting.md",
+    "A. Start/Shortcuts.md",
+    "A. Start/Oddball Shortcuts.md",
+    "A. Start/A. Purpose of Book.md",
+    "A. Start/To Do.md",
+    "A. Start/Study Recap.md",
+    "Location-Notes/Study Sessions.md",
+    "Glossary/Evolution.md",
     "Glossary/Tree.md",
     "Glossary/David.md",
     "Glossary/Stripling Warriors.md",
     "Glossary/Parenting.md",
     "Glossary/Priestcraft.md",
     "Reference-Material/IMG_8193.png",
-    "Glossary/Flesh and Blood.md",
-    "Glossary/Warrior.md",
-    "Glossary/Evolution.md",
-    "Glossary/Righteousness.md",
-    "Glossary/Ministering.md",
-    "Desk/Basecamp.md",
     "Reference-Material/Pasted image 20231230012408.sm.jpg",
     "Reference-Material/Pasted image 20231230012408.jpg",
     "Reference-Material/tree.jpg",
     "Reference-Material/Pasted image 20231230012408.png",
     "Reference-Material/Pasted image 20231230012001.png",
-    "Glossary/Humility.md",
-    "Glossary/Humility 2.md",
-    "Glossary/Bar of God.md",
-    "Glossary/Holy Ghost.md",
-    "Glossary/Jesus Christ, Atonement.md",
-    "Glossary/Obedience 2.md",
-    "Glossary/Obedience.md",
-    "Lessons-Taught/1-Utah Area Ministering.md",
-    "Glossary/Family Unit.md",
-    "Glossary/Faith.md",
-    "Personal-Blessings/Father's Blessings.md",
-    "Glossary/Corrupt Judges.md",
-    "Glossary/Spirit World.md",
-    "Quotebook/You’ll Miss Raising Children.md",
-    "Reference-Material/The Spirit World, Our Next Home.md",
     "Reference-Material/The Pleading Bar of God.pdf",
     "Reference-Material/Pasted image 20231227234143.jpg",
     "Journal",
     "Reference-Material",
     "Lessons-Taught",
-    "Desk",
+    "A. Start",
     "Location-Notes",
     "Personal-Blessings",
     "1-Temple, Symbols of",
