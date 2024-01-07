@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A. Start/To Do.md",
+                "file": "Glossary/Change.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A. Start/To Do.md",
+                "file": "Glossary/Change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A. Start/To Do.md"
+                "file": "Glossary/Change.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bf51f6abd20e781",
+  "active": "6af52782133c46a5",
   "lastOpenFiles": [
-    "Journal/2023-04-20 - Impressions at work.md",
+    "Thoughts-on-your-thoughts/Expository on Change.md",
+    "Glossary/Change.md",
+    "Glossary/Repentance.md",
+    "Glossary/Truth.md",
+    "Thoughts-on-your-thoughts/The Framework for Personal Revelation.md",
     "A. Start/To Do.md",
+    "Journal/2023-04-20 - Impressions at work.md",
     "Journal/2023-05-14 - Things are bad.md",
     "Journal/2023-12-03 - Jesus is the answer.md",
     "A. Start/Oddball Shortcuts.md",
@@ -171,11 +176,6 @@
     "Thoughts-on-your-thoughts",
     "untitled folder",
     "Glossary/Faith.md",
-    "Glossary/Family Unit.md",
-    "Glossary/Flesh and Blood.md",
-    "Glossary/Bar of God.md",
-    "Glossary/Ministering.md",
-    "Glossary/Obedience.md",
     "Reference-Material/IMG_8193.png",
     "Reference-Material/Pasted image 20231230012408.sm.jpg",
     "Reference-Material/Pasted image 20231230012408.jpg",
