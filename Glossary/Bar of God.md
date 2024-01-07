@@ -10,7 +10,7 @@ Mentioned only in the Book of Mormon, the bar of God is referenced as a place on
 - "the railing in a courtroom that encloses the place about the judge where prisoners are stationed or where the business of the court is transacted in civil cases." - MW
 - "an authority or tribunal that hands down judgment. 'will be judged at the bar of public opinion'. " - MW
 - Barrister - "a counsel admitted to plead at the bar and undertake the public trial of causes in an English superior court" -MW
-- Altar of God, the same?
+- [Altar](/Glossary/Altar.md) of God, the same?
 
 ### Hinderances
 - legal term with many other uses. For example, an establishment serving alcohol. 

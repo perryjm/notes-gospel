@@ -130,6 +130,12 @@ I had tough times in my marriage. And I had to get in my knees and listen to wha
 
 The United Nations doesn’t hold as much power as you all hold in this room.
 
+## Springville West Stake 2023-02-25
+- The Spirit will whisper to you, that is what you should listen to and do as a result of what you hear here today.
+- I need to keep memorizing scripture masteries
+- Our testimony of Jesus Christ will be the only thing that brings us together. 
+- My biggest reasons for interest in family history and studying my ancestors are because I think I’m the past they had a lot of things right. And I want to glean all wisdom I can from them.
+- I only pray sincerely when I’m scared or need something.
 
 ## Springville West Stake 2021-08-21 Saturday
 

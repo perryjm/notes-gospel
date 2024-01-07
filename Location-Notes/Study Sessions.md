@@ -25,7 +25,6 @@ Baptism is one of the clearest ordinances explained in the scriptures.
 ### Bar
 Working on [Bar of God](Bar%20of%20God.md)
 
-***
 ## 2023-12-26
 ### 3 Nephi 10
 There was three hours of destruction. And then darkness. Like, *thick* darkness. Not even the stars could be shown. And even the driest of wood could not light for fire. And while they are mourning the loss of their loved ones, the Lord speaks to them, and basically tells them they were spared because they were more righteous than their brethren.
@@ -50,6 +49,23 @@ He says more on the topic of covenant bond like yoking with another person.
 “My wife says that our marriage yokes us together, and because of that she can do things she couldn’t do before. For example, ever since she was young, she has had a hard time going out in the dark, but it is not hard anymore because I go with her. She is short and cannot reach to the high shelves unless she uses a chair or ladder, but I can reach the things from high shelves for her because I am taller than her. Taking our Savior’s yoke upon us is like that. As we yoke ourselves to Him, we can do things we couldn’t do on our own because He can do the things we cannot do for ourselves.”
 
 Elder David A. Bednar said: “Making and keeping sacred covenants yokes us to and with the Lord Jesus Christ. In essence, the Savior is beckoning us to rely upon and pull together with Him, even though our best efforts are not equal to and cannot be compared with His. As we trust in and pull our load with Him during the journey of mortality, truly His yoke is easy and His burden is light.”[8](safari-reader://www.churchofjesuschrist.org/study/general-conference/2023/10/26choi?lang=eng#note8)
+
+## 2022-05-08
+2 kings 15:16
+
+Horrible kings and rulers. This guy Menahem, “He sacked Tiphsah and ripped open all the pregnant women.”
+
+— its like horrifying. Something out of a modern day horror film. Why would anyone do this? What kind of evil are you where this seems like a good idea? It’s just. No. This is what I’m talking about with the Old Testament. Barbaric. Horrible. Horrible times.
+
+
+## 2022-05-05
+2 kings 13:20 
+
+Now Moabite raiders used to enter the country every spring. 21 Once while some Israelites were burying a man, suddenly they saw a band of raiders; so they threw the man’s body into Elisha’s tomb. When the body touched Elisha’s bones, the man came to life and stood up on his feet.
+
+What???? Like, for real!? How? Why? I am tempted to believe this was just a rumor they decided to throw in to the Bible for effect. Like, “Elisha was so great, even touching his bones brings you back to life”
+
+The King James Version tracks exactly the same. So crazy.
 
 ## 2021-10-06
 

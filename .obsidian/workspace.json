@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Ministering.md",
+                "file": "A. Start/Oddball Shortcuts.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roles of the holy ghost",
+                "query": "tag:#temple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Ministering.md",
+                "file": "A. Start/Oddball Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Ministering.md"
+                "file": "A. Start/Oddball Shortcuts.md"
               }
             }
           }
@@ -148,32 +148,34 @@
   },
   "active": "6af52782133c46a5",
   "lastOpenFiles": [
+    "Glossary/Altar.md",
+    "Location-Notes/Study Sessions.md",
+    "A. Start/Shortcuts.md",
+    "A. Start/Symbol Study.md",
+    "Location-Notes/Stake Conference.md",
     "Reference-Material/My Ministering Suggestions.md",
+    "Glossary/Second Coming.md",
+    "Thoughts-on-your-thoughts/Signs of the Second Coming.md",
+    "Glossary/Temple.md",
+    "Glossary/White Stone.md",
+    "Location-Notes/Temple Sessions.md",
+    "Thoughts-on-your-thoughts/Why is a covenant so freaking important?.md",
+    "Thoughts-on-your-thoughts/Scott Greenman Gave Talk on the Temple.md",
+    "Thoughts-on-your-thoughts/Temple, I take it for granted.md",
+    "Thoughts-on-your-thoughts/My 26 Problems With the Temple.md",
+    "Thoughts-on-your-thoughts",
+    "untitled folder",
+    "Glossary/Faith.md",
+    "Glossary/Family Unit.md",
+    "Glossary/Flesh and Blood.md",
+    "Glossary/Bar of God.md",
     "Glossary/Ministering.md",
     "Glossary/Obedience.md",
     "Glossary/Marriage.md",
     "Glossary/Humility.md",
-    "Glossary/Flesh and Blood.md",
-    "Glossary/Faith.md",
     "Glossary/Corrupt Judges.md",
     "Glossary/Agency.md",
     "Quotebook/Joy from Acting on Truth, Oaks.md",
-    "Quotebook/Inspiration, President Nelson.md",
-    "Quotebook/Covenant Keeper, President Nelson.md",
-    "Quotebook/AI, President Monson.md",
-    "Quotebook/Journaling, The Verge.md",
-    "Glossary/Spirit World.md",
-    "A. Start/To Do.md",
-    "Glossary/Veil.md",
-    "Lessons-Taught/The Many Roles of the Holy Ghost as Seen in Scripture.md",
-    "Glossary/Holy Ghost.md",
-    "Quotebook/Choose Jesus Christ, Maxwell.md",
-    "A. Start/A. Purpose of Book.md",
-    "Location-Notes/General Conference.md",
-    "A. Start/Oddball Shortcuts.md",
-    "A. Start/Shortcuts.md",
-    "A. Start/Symbol Study.md",
-    "Journal/2023-04-20 - Impressions at work.md",
     "Reference-Material/IMG_8193.png",
     "Reference-Material/Pasted image 20231230012408.sm.jpg",
     "Reference-Material/Pasted image 20231230012408.jpg",
@@ -188,8 +190,6 @@
     "A. Start",
     "Location-Notes",
     "Personal-Blessings",
-    "1-Temple, Symbols of",
-    "Reference Material/True to the Faith.mdx",
-    "Reference Material/Mormon Doctrine.mdx"
+    "1-Temple, Symbols of"
   ]
 }

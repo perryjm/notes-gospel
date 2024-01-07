@@ -10,7 +10,7 @@ When in the endowment, Adam and Eve kneel at the altar of God, they represent us
 Altars are the centerpiece of all sealing rooms and endowment rooms. Names on the prayer roll go on the Altar. Prayer circle surrounds a person kneeling at the altar praying. 
 
 ## Possible Meanings
-- Sign of submission to Gods will. Kneeling at His altar is an act of humility, an act of consecration and commitment.
+- Sign of submission to Gods will. Kneeling at His altar is an act of humility, an act of consecration and commitment. You are kneeling at His feet.
 - Kneeling at an altar is a symbol of worship generally.
 - Altars are symbolic of sacrifice. 
 - Jesus Christ the great and last sacrifice.
