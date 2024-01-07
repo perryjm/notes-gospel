@@ -2,6 +2,8 @@
 #doctrine 
 #holy-ghost
 
+See also [The Many Roles of the Holy Ghost as Seen in Scripture](/Lessons-Taught/The%20Many%20Roles%20of%20the%20Holy%20Ghost%20as%20Seen%20in%20Scripture.md)
+
 "The Holy Ghost is the third member of the Godhead. He is a personage of spirit, without a body of flesh and bones. He is often referred to as the Spirit, the Holy Spirit, the Spirit of God, the Spirit of the Lord, or the Comforter." [See Holy Ghost](https://www.churchofjesuschrist.org/study/manual/gospel-topics/holy-ghost)
 
 ## Roles

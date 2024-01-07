@@ -1,5 +1,17 @@
 # General Conference Notes
 
+## 2023-10
+**Questions I have for general conference October 2023**
+
+- When should we have our third baby? 
+- How can I find a path forward with the temple? [Christofferson]
+- Covenant Relationship - this lady on Saturday morning spoke about this.
+- 🚫Should we purchase a brand new van or a used van?
+- How much should I give for fast offerings? [Anderson]
+- Should we pay tithing on net or gross? [Anderson]
+- Should tiff and I serve a mission when we’re old? Are we even needed? [rasband]
+- Each person must dig deep find the own _______ (rock).
+
 
 
 ## 2021-04
