@@ -1,8 +1,8 @@
 # Shortcuts
 
-### [BOM](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng)
+### [BOM](https://www.churchofjesuschrist.org/study/scriptures/bofm/3-ne/13?lang=eng&id=p16-p18#p16)
 
-### [Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2023/10/28rasband?lang=eng)
+### [Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2023/10/31sabin?lang=eng)
 
 ### [Come Follow Me](https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-book-of-mormon-2024/01?lang=eng)
 
