@@ -1,5 +1,6 @@
 # Stripling Warriors
 #character-profile 
+
 Band of 2000 young men who initially served in the Nephite army under the direction of Helaman, under Moroni. Well known for, “we do not doubt, our mothers knew it” ([Alma 56:48](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/56?lang=eng&id=48#p48))
 
 ## Our Mothers Knew It

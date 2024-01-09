@@ -1,5 +1,6 @@
 # Second Coming of Jesus Christ
 #jesus-christ 
+#principle 
 
 As Jesus Christ ascended into heaven at the completion of His mortal ministry, two angels declared to His Apostles, “This same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven” ([Acts 1:11](https://www.churchofjesuschrist.org/study/scriptures/nt/acts/1.11?lang=eng#p11)). Since that time, believers have looked forward to the Second Coming of Jesus Christ. [Source](https://www.churchofjesuschrist.org/study/manual/gospel-topics/second-coming-of-jesus-christ?lang=eng)
 

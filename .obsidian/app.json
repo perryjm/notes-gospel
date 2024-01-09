@@ -12,6 +12,10 @@
   "attachmentFolderPath": "Reference-Material",
   "showUnsupportedFiles": true,
   "mobileToolbarCommands": [
+    "editor:context-menu",
+    "editor:unfold-all",
+    "editor:fold-all",
+    "editor:toggle-fold",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
     "editor:set-heading",
@@ -32,6 +36,9 @@
     "editor:toggle-code",
     "editor:toggle-checklist-status",
     "editor:toggle-blockquote",
-    "editor:configure-toolbar"
-  ]
+    "editor:configure-toolbar",
+    "editor:swap-line-up",
+    "editor:swap-line-down"
+  ],
+  "foldHeading": true
 }

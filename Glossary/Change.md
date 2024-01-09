@@ -1,4 +1,7 @@
 # Change
+#repentance
+#principle 
+
 See also [Repentance](/Glossary/Repentance.md)
 
 A change of heart which leads to a change in behavior, usually repentance, to stop doing things that are wrong and continue doing things that are right. When weak things become strong you gain the ability to not hurt people with your weaknesses, but to strengthen and lift and encourage others with the uniqueness the Lord gave you. 'Nature' is an operative and interesting word, it means one’s disposition or temperament. It means the inherent character or basic constitution of a person or thing, it’s essence. [MW](https://www.merriam-webster.com/dictionary/nature). 

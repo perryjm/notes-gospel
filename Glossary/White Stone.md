@@ -1,6 +1,7 @@
 # White Stone
 #symbol
 #temple
+
 When you enter the celestial kingdom you are issued a white stone, or Urim and Thummim.
 
 ## Possible Meanings

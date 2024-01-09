@@ -1,4 +1,6 @@
 # River of Water
+#symbol 
+
 In Nephi's vision of Lehi's dream there was a river of muddy water. Also, when Lehi stops for camp, he tells his Son that he wants him to be as a river.
 
 ## Possible Meanings

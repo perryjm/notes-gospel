@@ -1,5 +1,5 @@
 # Spirit World
-#doctrine
+#principle 
 
 "The postmortal spirit world is a place where the spirits of those who have died live before the Resurrection. The spirit world consists of paradise, where the righteous dwell, and spirit prison, where those who were wicked in mortality dwell." (['Spirit World'](https://www.churchofjesuschrist.org/study/manual/gospel-topics/spirit-world)in topics and questions)
 

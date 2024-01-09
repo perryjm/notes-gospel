@@ -1,5 +1,6 @@
 # Temple
 #temple 
+#principle 
 
 See also [Temple Session Notes](/Location-Notes/Temple%20Sessions.md), [White Stone](/Glossary/White%20Stone.md)
 

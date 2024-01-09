@@ -1,6 +1,7 @@
 # Atonement of Jesus Christ
 #jesus-christ 
 #atonement 
+#principle
 
 The atonement of Jesus Christ is power. It is His power that he lends to you to change your life and repent. It is His power granted to you to heal, restore, sanctify, be resurrected, and perfected. Jesus Christ obtained this power from our Heavenly Father when he suffered, bled from every pore, and was hung on the cross and died there. He became the Redeemer. The atonement of Jesus Christ reverses the effects of the fall of Adam and Eve.
 

@@ -1,5 +1,6 @@
 # Bar of God
-#symbol 
+#symbol
+#bar-of-god
 
 Mentioned only in the Book of Mormon, the bar of God is referenced as a place one goes to receive judgement from God. Or to plead ones case. The area of a courtroom where the defendant stands.
 

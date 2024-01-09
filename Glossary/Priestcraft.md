@@ -1,4 +1,7 @@
 # Priestcraft
+#principle 
+#false-theories 
+
 Seeking to profit or commercialize the word of God, or the gospel.
 
 Based on Book of Mormon passages, priestcraft is as small as insisting that priests get paid, and as big as hoodwinking entire nations and leading them astray.

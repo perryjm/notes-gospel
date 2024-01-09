@@ -1,6 +1,7 @@
 # Corrupt Judges
 #corruption
 #judge 
+#principle
 
 "Corrupt judges seek to incite the people against Nephi" [Hel. 8 - Chapter Heading](https://www.churchofjesuschrist.org/study/scriptures/bofm/hel/8?id=study_summary1&lang=eng#study_summary1)
 

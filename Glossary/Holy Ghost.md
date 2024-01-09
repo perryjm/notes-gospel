@@ -1,5 +1,5 @@
 # Holy Ghost
-#doctrine 
+#character-profile 
 #holy-ghost
 
 See also [The Many Roles of the Holy Ghost as Seen in Scripture](/Lessons-Taught/The%20Many%20Roles%20of%20the%20Holy%20Ghost%20as%20Seen%20in%20Scripture.md)

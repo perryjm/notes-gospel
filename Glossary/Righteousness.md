@@ -1,4 +1,6 @@
 # Righteousness
+#principle
+
 It’s the product of continuous obedience over time.
 
 ## Quotes

@@ -7,8 +7,7 @@ Project- Gospel principles knowledge base
 - Terse
 - Organized topically. By gospel principle. It is a principle-based work.
 - Is Faith a principle or a topic? It doesn’t matter, there will be an entry on Faith.
-- The litmus test for success
-
+- The litmus test for success follows
 - Can I pull out my phone (with no internet access) in the middle of a discussion with someone, and within a few taps be able to search up a topic like “Faith” and to quickly read my own brief working definition of Faith, and see scripture references (with links) to exactly the verses I studied that very morning so I can share with the person I’m in the middle of a conversation with.
 - Deliver a sacrament meeting talk straight out of this knowledge base
 
@@ -63,7 +62,7 @@ But the ultimate reason I took it down and never brought it back online is becau
 - [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
 - This knowledge base will be private, secured online behind a username and password and MFA. 
 - It’s backed up on GitHub and that’s where it will stay. 
-- Github’s future is pretty solid. I like it a lot. 
+- Github’s future is pretty solid. I like my chances for longevity. 
 - I’m using open source tools. No `$$` cost overhead. And I can find other tools if these stop being supported. 
 - The content is in markdown.
 - I own the content the raw content, it’s not tied up in some tools fate, like Evernote or OneNote or these other paid tiers. 

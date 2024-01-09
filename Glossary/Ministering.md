@@ -1,4 +1,6 @@
 # Ministering
+#principle 
+
 “Ministering is learning of and attending to others’ needs. It is doing the Lord’s work. When we minister, we are representing Jesus Christ and acting as His agents to watch over, lift, and strengthen those around us.
 
 “As members, we may determine through communication and inspiration the frequency and type of contact we will have with those to whom we minister. This customized contact will help us minister effectively and counsel quarterly with leaders regarding the needs of the individuals and families in our care.”

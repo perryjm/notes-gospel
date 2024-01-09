@@ -1,6 +1,7 @@
 # Symbol
 #symbol 
 #temple 
+#principle 
 
 Symbology, symbols
 

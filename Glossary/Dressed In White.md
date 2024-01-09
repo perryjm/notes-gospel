@@ -2,6 +2,7 @@
 
 #symbol 
 #temple 
+#dressed-in-white
 
 When you attend the temple, you go to the locker room and change out of your “street” clothes and into your “white” clothes. Everyone wears all white, except for aprons which are green.
 

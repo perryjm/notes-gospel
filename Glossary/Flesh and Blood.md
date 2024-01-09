@@ -1,4 +1,6 @@
 # Flesh and Blood
+#symbol
+
 The scriptures consistently refer to “flesh and blood” when speaking of us mortals here on earth and in mortality. This stands in contrast with “flesh and bones” as we see the Father and the Son have. 
 
 ## Possible Interpretations 
